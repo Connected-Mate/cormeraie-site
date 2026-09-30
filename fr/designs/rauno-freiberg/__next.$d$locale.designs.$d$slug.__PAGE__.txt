@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/10fty8nt30yuw.js","/_next/static/chunks/1-43wjumgtpi7.js","/_next/static/chunks/1_oj3cz2aubcl.js"],""]
+3:I[5500,["/_next/static/chunks/10fty8nt30yuw.js","/_next/static/chunks/1-43wjumgtpi7.js","/_next/static/chunks/1_oj3cz2aubcl.js"],"Image"]
+4:I[56392,["/_next/static/chunks/10fty8nt30yuw.js","/_next/static/chunks/1-43wjumgtpi7.js","/_next/static/chunks/1_oj3cz2aubcl.js"],"Underline"]
+5:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+9:X
+1c:X
+1c:C
+0:{"buildId":"fXzdLJ89ciBBfxH5Rbep1","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"mx-auto max-w-[720px] px-6 pt-20 pb-28 sm:px-10 sm:pt-28","children":[["$","p",null,{"className":"font-mono text-[11px] tracking-wider text-ink-500 uppercase","children":[["$","$L2",null,{"href":"/fr/designs","className":"hover:text-ink-900","children":"Designs"}]," ","· ","juillet 2026"]}],["$","h1",null,{"className":"mt-4 max-w-2xl font-display text-[36px] leading-[1.1] font-semibold tracking-tight text-ink-900 sm:text-[48px]","children":"rauno.me"}],["$","p",null,{"className":"mt-3 font-mono text-[12px] tracking-wider text-ink-500 uppercase","children":"Rauno Freiberg"}],["$","div",null,{"className":"relative mt-8 aspect-[4/3] w-full overflow-hidden border border-rule bg-ink-50","children":["$","$L3",null,{"src":"/designs/rauno-freiberg.svg","alt":"Aperçu : rauno.me","fill":true,"sizes":"(min-width: 768px) 720px, 100vw","className":"object-cover","priority":true}]}],["$","article",null,{"className":"mt-10","children":[["$","p",null,{"className":"mt-5 text-[17px] leading-[1.6] text-ink-800 first:mt-0","children":["Rauno Freiberg, ex-design engineer chez Vercel, a mis son manifeste directement dans son footer : « Make it fast. Make it beautiful. Make it consistent. Make it carefully. Make it timeless. Make it soulful. ",["$","$L4",null,{"children":"Make it."}]," » Ce dernier point est le plus important — il ferme la porte aux théoriciens."]}],"\n",["$","p",null,{"className":"mt-5 text-[17px] leading-[1.6] text-ink-800 first:mt-0","children":"Le site tient parole : navigation entièrement textuelle, typographie retenue, aucun ornement. Des sections nommées « Devouring Details », « Craft », « History of Software Design » — des titres qui annoncent une obsession, pas des catégories."}],"\n",["$","p",null,{"className":"mt-5 text-[17px] leading-[1.6] text-ink-800 first:mt-0","children":"Ce qui me frappe, c'est que le site n'est pas un conteneur pour son travail : il en est la démonstration. Chaque micro-interaction prouve la thèse. C'est rare, un portfolio qui ne triche pas."}]]}],["$","a",null,{"href":"https://rauno.me","target":"_blank","rel":"noopener noreferrer","className":"mt-10 inline-block font-mono text-[13px] tracking-wider text-accent uppercase underline decoration-1 underline-offset-4","children":["Voir l'original"," →",["$","span",null,{"className":"sr-only","children":[" (","nouvel onglet",")"]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1_oj3cz2aubcl.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"rauno.me — Rauno Freiberg | Cormeraie"}],["$","meta","1",{"name":"description","content":"Le site d'un designer d'interactions qui est lui-même sa meilleure pièce de portfolio."}],["$","link","2",{"rel":"author","href":"https://cormeraie.fr"}],["$","meta","3",{"name":"author","content":"Alexandre Cormeraie"}],["$","meta","4",{"name":"creator","content":"Alexandre Cormeraie"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","link","6",{"rel":"canonical","href":"https://cormeraie.fr/fr/designs/rauno-freiberg/"}],["$","link","7",{"rel":"alternate","hrefLang":"fr","href":"https://cormeraie.fr/fr/designs/rauno-freiberg/"}],["$","link","8",{"rel":"alternate","hrefLang":"en","href":"https://cormeraie.fr/en/designs/rauno-freiberg/"}],["$","link","9",{"rel":"alternate","hrefLang":"x-default","href":"https://cormeraie.fr/fr/designs/rauno-freiberg/"}],["$","link","10",{"rel":"alternate","type":"application/rss+xml","href":"https://cormeraie.fr/fr/rss.xml"}],["$","meta","11",{"property":"og:title","content":"rauno.me — Rauno Freiberg | Cormeraie"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17"]}]}]}],"$L18"]}],"isPartial":"$@19","staleTime":"$9","varyParams":null},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$9","varyParams":"$1c"},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$9","varyParams":"$1c"}],"isUpgradeableISRFallback":false,"a":"$@1f","rootVaryParams":null,"needsRuntimeRequest":"$@20"}
+21:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+22:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+23:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+7:null
+c:["$","meta","12",{"property":"og:description","content":"Le site d'un designer d'interactions qui est lui-même sa meilleure pièce de portfolio."}]
+d:["$","meta","13",{"property":"og:url","content":"https://cormeraie.fr/fr/designs/rauno-freiberg/"}]
+e:["$","meta","14",{"property":"og:locale","content":"fr_FR"}]
+f:["$","meta","15",{"property":"og:image","content":"https://cormeraie.fr/designs/rauno-freiberg.svg"}]
+10:["$","meta","16",{"property":"og:type","content":"article"}]
+11:["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}]
+12:["$","meta","18",{"name":"twitter:title","content":"rauno.me — Rauno Freiberg"}]
+13:["$","meta","19",{"name":"twitter:description","content":"Le site d'un designer d'interactions qui est lui-même sa meilleure pièce de portfolio."}]
+14:["$","meta","20",{"name":"twitter:image","content":"https://cormeraie.fr/designs/rauno-freiberg.svg"}]
+15:["$","link","21",{"rel":"icon","href":"/icon.png?12c1a6044b82a43c","type":"image/png","sizes":"64x64"}]
+16:["$","link","22",{"rel":"apple-touch-icon","href":"/apple-icon.png?15d0c3e366bc9dcb","type":"image/png","sizes":"180x180"}]
+17:["$","$L21","23",{}]
+18:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1a:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+1d:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+20:true
+9:300
+9:C
+1f:0
+19:"$undefined"
+1b:"$undefined"
+1e:"$undefined"
+8:"$undefined"

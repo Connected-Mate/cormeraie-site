@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://cormeraie.fr</loc>
+<lastmod>2026-09-30T11:13:17.875Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en" />
+<lastmod>2026-08-12T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/designs</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/designs" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/designs" />
+<lastmod>2026-08-01T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/sites</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites" />
+<lastmod>2026-07-08T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/apps</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/apps" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/apps" />
+<lastmod>2026-09-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/x</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/x" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/x" />
+<lastmod>2026-09-30T11:13:17.882Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/posts/le-vibe-coding-netait-quun-debut</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/posts/le-vibe-coding-netait-quun-debut" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/posts/vibe-coding-was-only-the-beginning" />
+<lastmod>2026-08-12T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/posts/preparez-vous-a-la-nouvelle-plateforme</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/posts/preparez-vous-a-la-nouvelle-plateforme" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/posts/get-ready-for-the-new-platform" />
+<lastmod>2026-08-13T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/designs/linear</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/designs/linear" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/designs/linear" />
+<lastmod>2026-08-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/designs/rauno-freiberg</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/designs/rauno-freiberg" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/designs/rauno-freiberg" />
+<lastmod>2026-07-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/designs/arc-browser</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/designs/arc-browser" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/designs/arc-browser" />
+<lastmod>2026-06-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/designs/things-3</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/designs/things-3" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/designs/things-3" />
+<lastmod>2026-05-10T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/sites/raycast</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/raycast" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/raycast" />
+<lastmod>2026-07-08T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/sites/linear</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/linear" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/linear" />
+<lastmod>2026-06-02T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/sites/stripe-docs</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/stripe-docs" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/stripe-docs" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/sites/arc</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/arc" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/arc" />
+<lastmod>2026-02-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/sites/kottke</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/kottke" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/kottke" />
+<lastmod>2025-11-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/fr/sites/teenage-engineering</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/teenage-engineering" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/teenage-engineering" />
+<lastmod>2025-09-30T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en" />
+<lastmod>2026-08-12T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/designs</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/designs" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/designs" />
+<lastmod>2026-08-01T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/sites</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites" />
+<lastmod>2026-07-08T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/apps</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/apps" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/apps" />
+<lastmod>2026-09-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/x</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/x" />
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/x" />
+<lastmod>2026-09-30T11:13:17.899Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/posts/vibe-coding-was-only-the-beginning</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/posts/vibe-coding-was-only-the-beginning" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/posts/le-vibe-coding-netait-quun-debut" />
+<lastmod>2026-08-12T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/posts/get-ready-for-the-new-platform</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/posts/get-ready-for-the-new-platform" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/posts/preparez-vous-a-la-nouvelle-plateforme" />
+<lastmod>2026-08-13T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/designs/linear</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/designs/linear" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/designs/linear" />
+<lastmod>2026-08-01T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/designs/rauno-freiberg</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/designs/rauno-freiberg" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/designs/rauno-freiberg" />
+<lastmod>2026-07-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/designs/arc-browser</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/designs/arc-browser" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/designs/arc-browser" />
+<lastmod>2026-06-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/designs/things-3</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/designs/things-3" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/designs/things-3" />
+<lastmod>2026-05-10T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/sites/raycast</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/raycast" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/raycast" />
+<lastmod>2026-07-08T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/sites/linear</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/linear" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/linear" />
+<lastmod>2026-06-02T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/sites/stripe-docs</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/stripe-docs" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/stripe-docs" />
+<lastmod>2026-04-14T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/sites/arc</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/arc" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/arc" />
+<lastmod>2026-02-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/sites/kottke</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/kottke" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/kottke" />
+<lastmod>2025-11-20T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://cormeraie.fr/en/sites/teenage-engineering</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://cormeraie.fr/en/sites/teenage-engineering" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://cormeraie.fr/fr/sites/teenage-engineering" />
+<lastmod>2025-09-30T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>

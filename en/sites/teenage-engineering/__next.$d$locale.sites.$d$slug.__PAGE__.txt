@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/10fty8nt30yuw.js","/_next/static/chunks/1-43wjumgtpi7.js"],""]
+3:I[56392,["/_next/static/chunks/10fty8nt30yuw.js","/_next/static/chunks/1-43wjumgtpi7.js"],"Box"]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+:HL["/sites/teenage-engineering.svg","image"]
+8:X
+1d:X
+1d:C
+0:{"buildId":"fXzdLJ89ciBBfxH5Rbep1","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"mx-auto max-w-[720px] px-6 pt-20 pb-28 sm:px-10 sm:pt-28","children":[["$","p",null,{"className":"font-mono text-[11px] tracking-wider text-ink-500 uppercase","children":[["$","$L2",null,{"href":"/en/sites","className":"hover:text-ink-900","children":"Sites"}]," ","· ","September 2025"," · Hardware, Identity"]}],["$","div",null,{"className":"mt-4 flex items-center gap-4","children":[["$","img",null,{"src":"/sites/teenage-engineering.svg","alt":"","aria-hidden":"true","className":"h-10 w-10 shrink-0"}],["$","h1",null,{"className":"font-display text-[36px] leading-[1.1] font-semibold tracking-tight text-ink-900 sm:text-[48px]","children":"Teenage Engineering"}]]}],["$","a",null,{"href":"https://teenage.engineering","target":"_blank","rel":"noopener noreferrer","className":"mt-6 inline-block font-mono text-[13px] tracking-wider text-accent uppercase underline decoration-1 underline-offset-4","children":["Visit the site"," →",["$","span",null,{"className":"sr-only","children":[" (","new tab",")"]}]]}],["$","article",null,{"className":"mt-10","children":["$","p",null,{"className":"mt-5 text-[17px] leading-[1.6] text-ink-800 first:mt-0","children":["The teenage.engineering catalogue is a modular grid where every device gets exactly the same treatment: isolated, centred, neutral background, systematic framing. ",["$","$L3",null,{"children":"No lifestyle photography, ever"}]," — no loft bathed in golden light, no tattooed hands on an OP-1. The object is enough, as in a museum catalogue. The technical sans-serif typography and minimal navigation extend the same idea: the site is built like one of their instruments — austere, precise, unornamented. It's a rare bet — most brands don't dare leave their products alone in front of the visitor. Here, that unapologetic coldness has become the signature: you recognise a Teenage Engineering page before you've read the name."]}]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Teenage Engineering | Cormeraie"}],["$","meta","1",{"name":"description","content":"Every synth photographed like a museum piece, never a hand on it"}],["$","link","2",{"rel":"author","href":"https://cormeraie.fr"}],["$","meta","3",{"name":"author","content":"Alexandre Cormeraie"}],["$","meta","4",{"name":"creator","content":"Alexandre Cormeraie"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","link","6",{"rel":"canonical","href":"https://cormeraie.fr/en/sites/teenage-engineering/"}],["$","link","7",{"rel":"alternate","hrefLang":"fr","href":"https://cormeraie.fr/fr/sites/teenage-engineering/"}],["$","link","8",{"rel":"alternate","hrefLang":"en","href":"https://cormeraie.fr/en/sites/teenage-engineering/"}],["$","link","9",{"rel":"alternate","hrefLang":"x-default","href":"https://cormeraie.fr/fr/sites/teenage-engineering/"}],["$","link","10",{"rel":"alternate","type":"application/rss+xml","href":"https://cormeraie.fr/en/rss.xml"}],["$","meta","11",{"property":"og:title","content":"Teenage Engineering | Cormeraie"}],["$","meta","12",{"property":"og:description","content":"Every synth photographed like a museum piece, never a hand on it"}],["$","meta","13",{"property":"og:url","content":"https://cormeraie.fr/en/sites/teenage-engineering/"}],["$","meta","14",{"property":"og:locale","content":"en_GB"}],["$","meta","15",{"property":"og:image","content":"https://cormeraie.fr/en/sites/teenage-engineering/opengraph-image.png?422e7c2a0af12101"}],["$","meta","16",{"property":"og:image:type","content":"image/png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18"]}]}]}],"$L19"]}],"isPartial":"$@1a","staleTime":"$8","varyParams":null},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$8","varyParams":"$1d"},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$8","varyParams":"$1d"}],"isUpgradeableISRFallback":false,"a":"$@20","rootVaryParams":null,"needsRuntimeRequest":"$@21"}
+22:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+23:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+24:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+b:["$","meta","18",{"property":"og:image:height","content":"630"}]
+c:["$","meta","19",{"property":"og:image:alt","content":"Site — Cormeraie"}]
+d:["$","meta","20",{"property":"og:type","content":"article"}]
+e:["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}]
+f:["$","meta","22",{"name":"twitter:title","content":"Cormeraie — Written by hand."}]
+10:["$","meta","23",{"name":"twitter:description","content":"One goal: build the best possible experience — with AI. My apps, my essays, what I admire."}]
+11:["$","meta","24",{"name":"twitter:image","content":"https://cormeraie.fr/en/sites/teenage-engineering/opengraph-image.png?422e7c2a0af12101"}]
+12:["$","meta","25",{"name":"twitter:image:alt","content":"Site — Cormeraie"}]
+13:["$","meta","26",{"name":"twitter:image:type","content":"image/png"}]
+14:["$","meta","27",{"name":"twitter:image:width","content":"1200"}]
+15:["$","meta","28",{"name":"twitter:image:height","content":"630"}]
+16:["$","link","29",{"rel":"icon","href":"/icon.png?12c1a6044b82a43c","type":"image/png","sizes":"64x64"}]
+17:["$","link","30",{"rel":"apple-touch-icon","href":"/apple-icon.png?15d0c3e366bc9dcb","type":"image/png","sizes":"180x180"}]
+18:["$","$L22","31",{}]
+19:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1b:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+1e:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+21:true
+8:300
+8:C
+20:0
+1a:"$undefined"
+1c:"$undefined"
+1f:"$undefined"
+7:"$undefined"

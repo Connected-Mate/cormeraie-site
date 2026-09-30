@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/10fty8nt30yuw.js","/_next/static/chunks/1-43wjumgtpi7.js","/_next/static/chunks/1_oj3cz2aubcl.js"],""]
+3:I[5500,["/_next/static/chunks/10fty8nt30yuw.js","/_next/static/chunks/1-43wjumgtpi7.js","/_next/static/chunks/1_oj3cz2aubcl.js"],"Image"]
+4:I[56392,["/_next/static/chunks/10fty8nt30yuw.js","/_next/static/chunks/1-43wjumgtpi7.js","/_next/static/chunks/1_oj3cz2aubcl.js"],"Highlight"]
+5:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+9:X
+1a:X
+1a:C
+0:{"buildId":"fXzdLJ89ciBBfxH5Rbep1","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"mx-auto max-w-[720px] px-6 pt-20 pb-28 sm:px-10 sm:pt-28","children":[["$","p",null,{"className":"font-mono text-[11px] tracking-wider text-ink-500 uppercase","children":[["$","$L2",null,{"href":"/en/designs","className":"hover:text-ink-900","children":"Designs"}]," ","· ","August 2026"]}],["$","h1",null,{"className":"mt-4 max-w-2xl font-display text-[36px] leading-[1.1] font-semibold tracking-tight text-ink-900 sm:text-[48px]","children":"Linear"}],["$","p",null,{"className":"mt-3 font-mono text-[12px] tracking-wider text-ink-500 uppercase","children":"Linear, Inc."}],["$","div",null,{"className":"relative mt-8 aspect-[4/3] w-full overflow-hidden border border-rule bg-ink-50","children":["$","$L3",null,{"src":"/designs/linear.svg","alt":"Preview: Linear","fill":true,"sizes":"(min-width: 768px) 720px, 100vw","className":"object-cover","priority":true}]}],["$","article",null,{"className":"mt-10","children":[["$","p",null,{"className":"mt-5 text-[17px] leading-[1.6] text-ink-800 first:mt-0","children":["Linear understood something almost nobody dares to act on: speed is a design decision. Everything goes through the ",["$","$L4",null,{"children":"Cmd+K"}]," palette — assign, filter, navigate — and the mouse becomes optional. This isn't a shortcut bolted on afterwards; it's the very architecture of the product, codified in their \"Linear Method\"."]}],"\n",["$","p",null,{"className":"mt-5 text-[17px] leading-[1.6] text-ink-800 first:mt-0","children":"Their marketing site carries the same honesty: sections of text alternating with full-width captures of the real interface, doing real things. No abstract illustrations, no decorative mockups. The product shows up bare, and it holds the demonstration. I wish more teams had that kind of nerve."}]]}],["$","a",null,{"href":"https://linear.app","target":"_blank","rel":"noopener noreferrer","className":"mt-10 inline-block font-mono text-[13px] tracking-wider text-accent uppercase underline decoration-1 underline-offset-4","children":["See the original"," →",["$","span",null,{"className":"sr-only","children":[" (","new tab",")"]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1_oj3cz2aubcl.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Linear — Linear, Inc. | Cormeraie"}],["$","meta","1",{"name":"description","content":"A project management tool you can drive entirely from the keyboard, without ever touching the mouse."}],["$","link","2",{"rel":"author","href":"https://cormeraie.fr"}],["$","meta","3",{"name":"author","content":"Alexandre Cormeraie"}],["$","meta","4",{"name":"creator","content":"Alexandre Cormeraie"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","link","6",{"rel":"canonical","href":"https://cormeraie.fr/en/designs/linear/"}],["$","link","7",{"rel":"alternate","hrefLang":"fr","href":"https://cormeraie.fr/fr/designs/linear/"}],["$","link","8",{"rel":"alternate","hrefLang":"en","href":"https://cormeraie.fr/en/designs/linear/"}],["$","link","9",{"rel":"alternate","hrefLang":"x-default","href":"https://cormeraie.fr/fr/designs/linear/"}],["$","link","10",{"rel":"alternate","type":"application/rss+xml","href":"https://cormeraie.fr/en/rss.xml"}],["$","meta","11",{"property":"og:title","content":"Linear — Linear, Inc. | Cormeraie"}],["$","meta","12",{"property":"og:description","content":"A project management tool you can drive entirely from the keyboard, without ever touching the mouse."}],["$","meta","13",{"property":"og:url","content":"https://cormeraie.fr/en/designs/linear/"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15"]}]}]}],"$L16"]}],"isPartial":"$@17","staleTime":"$9","varyParams":null},{"rsc":"$L18","isPartial":"$@19","staleTime":"$9","varyParams":"$1a"},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$9","varyParams":"$1a"}],"isUpgradeableISRFallback":false,"a":"$@1d","rootVaryParams":null,"needsRuntimeRequest":"$@1e"}
+1f:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+7:null
+c:["$","meta","14",{"property":"og:locale","content":"en_GB"}]
+d:["$","meta","15",{"property":"og:image","content":"https://cormeraie.fr/designs/linear.svg"}]
+e:["$","meta","16",{"property":"og:type","content":"article"}]
+f:["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}]
+10:["$","meta","18",{"name":"twitter:title","content":"Linear — Linear, Inc."}]
+11:["$","meta","19",{"name":"twitter:description","content":"A project management tool you can drive entirely from the keyboard, without ever touching the mouse."}]
+12:["$","meta","20",{"name":"twitter:image","content":"https://cormeraie.fr/designs/linear.svg"}]
+13:["$","link","21",{"rel":"icon","href":"/icon.png?12c1a6044b82a43c","type":"image/png","sizes":"64x64"}]
+14:["$","link","22",{"rel":"apple-touch-icon","href":"/apple-icon.png?15d0c3e366bc9dcb","type":"image/png","sizes":"180x180"}]
+15:["$","$L1f","23",{}]
+16:["$","meta",null,{"name":"next-size-adjust","content":""}]
+18:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+1b:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+1e:true
+9:300
+9:C
+1d:0
+17:"$undefined"
+19:"$undefined"
+1c:"$undefined"
+8:"$undefined"
