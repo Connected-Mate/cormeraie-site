@@ -1,0 +1,54 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/21glpme8ez2t_.js","/_next/static/chunks/3duqmw4bxi7i_.js"],""]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+:HL["/sites/arc.svg","image"]
+2:T40d,[{"@context":"https://schema.org","@type":"WebPage","name":"Arc","description":"The browser that dared to touch the sidebar — and it was right","url":"https://cormeraie.fr/en/sites/arc/","inLanguage":"en-GB","datePublished":"2026-02-25T00:00:00.000Z","author":{"@type":"Person","@id":"https://cormeraie.fr/#author","name":"Alexandre Cormeraie","url":"https://cormeraie.fr"},"isPartOf":{"@type":"WebSite","name":"Cormeraie","url":"https://cormeraie.fr"},"about":{"@type":"WebSite","name":"Arc","url":"https://arc.net"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://cormeraie.fr/en/sites/arc/opengraph-image.png","caption":"Arc — Cormeraie share card","width":1200,"height":630}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Cormeraie","item":"https://cormeraie.fr"},{"@type":"ListItem","position":2,"name":"Sites","item":"https://cormeraie.fr/en/sites/"},{"@type":"ListItem","position":3,"name":"Arc","item":"https://cormeraie.fr/en/sites/arc/"}]}]8:X
+2b:X
+2b:C
+0:{"buildId":"3fHMMESxE1Iv-4XG0apjk","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-[720px] px-6 pt-20 pb-28 sm:px-10 sm:pt-28","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","p",null,{"className":"font-mono text-[11px] tracking-wider text-ink-500 uppercase","children":[["$","$L3",null,{"href":"/en/sites/","className":"hover:text-ink-900","children":"Sites"}]," ","· ","February 2026"," · Browser, Interaction"]}],["$","div",null,{"className":"mt-4 flex items-center gap-4","children":[["$","img",null,{"src":"/sites/arc.svg","alt":"","aria-hidden":"true","className":"h-10 w-10 shrink-0"}],["$","h1",null,{"className":"font-display text-[36px] leading-[1.1] font-semibold tracking-tight text-ink-900 sm:text-[48px]","children":"Arc"}]]}],["$","a",null,{"href":"https://arc.net","target":"_blank","rel":"noopener noreferrer","className":"mt-6 inline-block font-mono text-[13px] tracking-wider text-accent uppercase underline decoration-1 underline-offset-4","children":["Visit the site"," →",["$","span",null,{"className":"sr-only","children":[" (","new tab",")"]}]]}],["$","article",null,{"className":"mt-10","children":["$","p",null,{"className":"mt-5 text-[17px] leading-[1.6] text-ink-800 first:mt-0","children":"Arc is the only recent browser to have rethought the object itself instead of piling up tabs. Spaces separate contexts: one for work, one for life, each with its own tabs and profile. Little Arc, my favourite decision: a link clicked from another app opens in a disposable mini-window, read then closed, never polluting the main space. And the Spotlight-style command palette makes the mouse optional. The site tells all of this with big headlines and full-frame captures of the browser in real use — no abstract mockups. The homepage is now dominated by the Dia announcement, but Arc is still there to download, and those three interaction ideas haven't aged a day."}]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Arc | Cormeraie"}],["$","meta","1",{"name":"description","content":"The browser that dared to touch the sidebar — and it was right"}],["$","link","2",{"rel":"author","href":"https://cormeraie.fr/en/alexandre-cormeraie/"}],["$","meta","3",{"name":"author","content":"Alexandre Cormeraie"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]}]}],"$L27"]}],"isPartial":"$@28","staleTime":"$8","varyParams":null},{"rsc":"$L29","isPartial":"$@2a","staleTime":"$8","varyParams":"$2b"},{"rsc":"$L2c","isPartial":"$@2d","staleTime":"$8","varyParams":"$2b"}],"isUpgradeableISRFallback":false,"a":"$@2e","rootVaryParams":null,"needsRuntimeRequest":"$@2f"}
+30:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+31:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+32:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+b:["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}]
+c:["$","meta","5",{"name":"creator","content":"Alexandre Cormeraie"}]
+d:["$","meta","6",{"name":"robots","content":"index, follow"}]
+e:["$","link","7",{"rel":"canonical","href":"https://cormeraie.fr/en/sites/arc/"}]
+f:["$","link","8",{"rel":"alternate","hrefLang":"fr","href":"https://cormeraie.fr/fr/sites/arc/"}]
+10:["$","link","9",{"rel":"alternate","hrefLang":"en","href":"https://cormeraie.fr/en/sites/arc/"}]
+11:["$","link","10",{"rel":"alternate","hrefLang":"x-default","href":"https://cormeraie.fr/fr/sites/arc/"}]
+12:["$","link","11",{"rel":"alternate","type":"application/rss+xml","href":"https://cormeraie.fr/en/rss.xml"}]
+13:["$","meta","12",{"property":"og:title","content":"Arc | Cormeraie"}]
+14:["$","meta","13",{"property":"og:description","content":"The browser that dared to touch the sidebar — and it was right"}]
+15:["$","meta","14",{"property":"og:url","content":"https://cormeraie.fr/en/sites/arc/"}]
+16:["$","meta","15",{"property":"og:site_name","content":"Cormeraie"}]
+17:["$","meta","16",{"property":"og:locale","content":"en_GB"}]
+18:["$","meta","17",{"property":"og:image","content":"https://cormeraie.fr/en/sites/arc/opengraph-image.png"}]
+19:["$","meta","18",{"property":"og:image:width","content":"1200"}]
+1a:["$","meta","19",{"property":"og:image:height","content":"630"}]
+1b:["$","meta","20",{"property":"og:image:alt","content":"Arc — Cormeraie share card"}]
+1c:["$","meta","21",{"property":"og:type","content":"article"}]
+1d:["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}]
+1e:["$","meta","23",{"name":"twitter:title","content":"Arc"}]
+1f:["$","meta","24",{"name":"twitter:description","content":"The browser that dared to touch the sidebar — and it was right"}]
+20:["$","meta","25",{"name":"twitter:image","content":"https://cormeraie.fr/en/sites/arc/opengraph-image.png"}]
+21:["$","meta","26",{"name":"twitter:image:alt","content":"Arc — Cormeraie share card"}]
+22:["$","meta","27",{"name":"twitter:image:width","content":"1200"}]
+23:["$","meta","28",{"name":"twitter:image:height","content":"630"}]
+24:["$","link","29",{"rel":"icon","href":"/icon.png?12c1a6044b82a43c","type":"image/png","sizes":"64x64"}]
+25:["$","link","30",{"rel":"apple-touch-icon","href":"/apple-icon.png?15d0c3e366bc9dcb","type":"image/png","sizes":"180x180"}]
+26:["$","$L30","31",{}]
+27:["$","meta",null,{"name":"next-size-adjust","content":""}]
+29:["$","$1","c",{"children":[null,["$","$L31",null,{"parallelRouterKey":"children","template":["$","$L32",null,{}]}]]}]
+2c:["$","$1","c",{"children":[null,["$","$L31",null,{"parallelRouterKey":"children","template":["$","$L32",null,{}]}]]}]
+2f:true
+8:300
+8:C
+2e:0
+28:"$undefined"
+2a:"$undefined"
+2d:"$undefined"
+7:"$undefined"

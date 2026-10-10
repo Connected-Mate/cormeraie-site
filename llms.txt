@@ -1,0 +1,226 @@
+# Cormeraie — Alexandre Cormeraie
+
+> Un seul objectif : créer la meilleure expérience possible — avec l'IA. Mes apps, mes articles, ce que j'admire. Carnet d’Alexandre Cormeraie, Responsable IA & Innovation de TGV Europe (SNCF Voyageurs), sur l'IA appliquée à la conception, au développement et au travail : articles, apps, designs et sites qui l'inspirent. Bilingue français / anglais. Entreprise : Connected Mate (https://connectedmate.com).
+
+Alexandre Cormeraie: [LinkedIn](https://www.linkedin.com/in/alex-cormeraie/) · [GitHub](https://github.com/Connected-Mate) · [Connected Mate](https://connectedmate.com)
+
+## Alexandre Cormeraie — À propos (Français)
+
+[Alexandre Cormeraie — IA & Innovation TGV Europe (SNCF)](https://cormeraie.fr/fr/alexandre-cormeraie/)
+
+Alexandre Cormeraie est Responsable IA & Innovation de TGV Europe, à la Direction Marketing TGV de SNCF Voyageurs, à Paris. Il fait adopter l'IA générative en production — de vrais outils pour de vrais utilisateurs — et a monté la première direction innovation « AI Native » du groupe SNCF. À côté, il développe des apps IA avec Connected Mate, publie des outils open source pour les agents de code, et intervient comme conférencier au CEDEP et à l'INSEAD. Il est lauréat du prix Spark Spin Off aux France Corporate Innovation Awards 2026.
+
+### L'IA appliquée à la SNCF
+
+Depuis juillet 2025, sa mission est de développer l'innovation numérique au sein de la Direction Marketing TGV et de faire de l'IA générative un levier concret pour les équipes métier. En quelques mois, l'équipe IA qu'il pilote a consommé, à plusieurs, 240 milliards de tokens et développé plus de 20 applications internes, avec jusqu'à 5 agents IA par tâche.
+
+- **Programme Citizen Creators, avec Figma**: Le premier programme de vibe coding du groupe SNCF : des applications internes 100 % développées par IA, déployées auprès des équipes métier.
+- **Premier MCP du groupe SNCF**: Le tout premier serveur MCP (Model Context Protocol) du groupe, connecté à l'Open Data SNCF, et l'accompagnement de l'app MCP SNCF Connect dans ChatGPT.
+- **Réservation d'un billet TGV à la voix**: Première réservation de billets TGV à la voix dès décembre 2023 avec OpenAI, puis mise en production du cas d'usage, et une première IA speech-to-speech pensée pour épauler le serveur vocal.
+- **Patrick Code**: Un orchestrateur d'agents de code auto-hébergé (Claude Code, Codex, OpenCode), branché sur les fournisseurs IA du groupe (AWS Bedrock, Azure AI Foundry) et utilisé par plusieurs entités du groupe.
+- **Creative Studio & Presentation Studio**: Des plateformes génératives internes entièrement vibe-codées, utilisées par 400 à 500 personnes chaque mois.
+- **Apple Vision Pro et TGV INOUI Experience**: 15 casques déployés et 5 applications (équipes commerciales, technicentres, Comex, podcast immersif, App Store public) : TGV INOUI devient la première entreprise ferroviaire au monde à proposer un voyage immersif à bord de son matériel le plus récent. (https://apps.apple.com/fr/app/tgv-inoui-experience/id6749140401)
+- **Design system TGV INOUI pour agents IA**: Un design system que des agents IA savent piloter, et des partenariats avec Apple, Google Cloud et Meta.
+
+### Développeur d'apps IA
+
+Avec Connected Mate, il conçoit et publie seul, avec l'IA, des applications pour iPhone et Mac et des outils pour coder avec des agents.
+
+- **NoteTaker AI**: Résumés de réunion 100 % sur l'iPhone grâce aux Apple Foundation Models : aucune donnée ne quitte l'appareil. Mise en avant par Apple, présentée sur BFM Business, plus de 1 800 téléchargements. (https://connectedmate.com/notetaker-ai.html)
+- **Dys Keyboard**: Un clavier pensé pour les personnes qui ont des difficultés d'écriture, validé par Apple pour les enfants. (https://connectedmate.com/dys-keyboard.html)
+- **Better Dictate**: Une dictée vocale rapide et privée pour Mac, propulsée par Whisper, 100 % hors ligne. (https://connectedmate.com/better-dictate.html)
+- **AnnotateKit et Agentation**: On montre l'élément à changer au lieu de le décrire : l'agent de code reçoit un retour précis. Agentation pousse l'idée en méthode de travail — « Don't vibe code, vibe create ». (https://agentation.fr)
+- **Open source**: fable-mindset, gptimage, corporate-launcher, MacPulse, TokenWatt : des outils libres autour des agents de code et de l'IA locale. (https://github.com/Connected-Mate)
+
+### Conférencier IA
+
+Il intervient auprès de dirigeants et du grand public sur l'adoption de l'IA en entreprise, le vibe coding et le rôle des digital natives.
+
+- **CEDEP — Executive Development, Fontainebleau**: Faculty speaker depuis novembre 2023 : ateliers d'adoption de l'IA pour L'Oréal, Renault, Safran, Nexus et Danske Bank.
+- **INSEAD, CFAO, Nexus Automotive**: Keynotes sur l'IA appliquée pour des audiences dirigeantes.
+- **Agent at Scale**: Le passage du vibe coding à une organisation d'agents, présenté à S-Tron China et chez Comet ; et le premier événement qui réunit les communautés Claude Code et Cursor, organisé par TGV.
+- **Podcast Connected Mate**: Des conversations sur l'IA appliquée avec celles et ceux qui la mettent en production.
+
+### Parcours
+
+- 2026: Lauréat du prix Spark Spin Off — France Corporate Innovation Awards
+- Depuis juillet 2025: Responsable IA & Innovation — TGV Europe · SNCF Voyageurs, Paris
+- 2023 – 2025: Chef de projet innovation — TGV Europe · SNCF Voyageurs — premiers POC d'IA générative et Apple Vision Pro
+- Depuis 2023: Faculty speaker — CEDEP, Fontainebleau
+- Depuis 2024: Fondateur — Connected Mate — apps IA, podcast, open source
+- 2022 – 2023: Digital project manager — #BonjourPPC, Paris
+- 2021: Global app manager — Sneakify — app iOS et web
+- Depuis 2018: Sapeur-pompier volontaire, caporal-chef — SDIS 77, centre de Fontainebleau
+
+### Questions fréquentes
+
+**Qui est Alexandre Cormeraie ?**
+Alexandre Cormeraie est Responsable IA & Innovation de TGV Europe chez SNCF Voyageurs, à Paris. Builder en IA appliquée, il a monté la première direction innovation « AI Native » du groupe SNCF, développe des apps IA avec Connected Mate et intervient comme conférencier au CEDEP et à l'INSEAD. Il est lauréat du prix Spark Spin Off aux France Corporate Innovation Awards 2026.
+
+**Que fait Alexandre Cormeraie à la SNCF ?**
+Il fait adopter l'IA générative en production à la Direction Marketing TGV : programme de vibe coding Citizen Creators avec Figma, premier MCP du groupe SNCF connecté à l'Open Data, réservation de billets TGV à la voix, plateformes génératives Creative Studio et Presentation Studio, et le programme Apple Vision Pro de TGV INOUI.
+
+**Qu'est-ce que le programme Citizen Creators de la SNCF ?**
+C'est le premier programme de vibe coding du groupe SNCF, mené avec Figma : des profils métier non techniques créent des applications internes entièrement développées par l'IA, accompagnés par un tech lead qui valide et met en production.
+
+**Qui s’occupe de l’IA chez TGV Europe ?**
+Alexandre Cormeraie est Responsable IA & Innovation de TGV Europe, à la Direction Marketing TGV de SNCF Voyageurs, à Paris. Il y a monté la première direction innovation « AI Native » du groupe SNCF.
+
+**Le vibe coding est-il utilisé à la SNCF ?**
+Oui. Avec le programme Citizen Creators, mené avec Figma, des équipes métier de SNCF Voyageurs créent des applications internes développées par l’IA, encadrées par un tech lead qui valide et met en production. Depuis juillet 2025, l’équipe IA & Innovation de TGV Europe a développé plus de 20 applications internes.
+
+**Qu’est-ce que Patrick Code ?**
+Patrick Code est un orchestrateur d’agents de code auto-hébergé (Claude Code, Codex, OpenCode) conçu par l’équipe IA & Innovation de TGV Europe. Il est branché sur les fournisseurs IA du groupe SNCF et utilisé par plusieurs de ses entités.
+
+**Quel est le premier MCP du groupe SNCF ?**
+Le premier serveur MCP (Model Context Protocol) du groupe SNCF a été créé par l'équipe IA & Innovation de TGV Europe et connecté à l'Open Data SNCF ; l'équipe a ensuite accompagné l'app MCP SNCF Connect dans ChatGPT.
+
+**Quelles apps IA Alexandre Cormeraie a-t-il développées ?**
+NoteTaker AI (résumés de réunion 100 % sur l'iPhone), Dys Keyboard, Better Dictate, AnnotateKit, SpecDrive et Builder Nutch, ainsi que des outils open source pour les agents de code. Toutes sont présentées sur la page Apps de cormeraie.fr.
+
+**Comment contacter Alexandre Cormeraie pour une conférence ou un projet IA ?**
+Par e-mail à bonjour@cormeraie.fr, sur LinkedIn ou via son profil Malt.
+
+## Alexandre Cormeraie — About (English)
+
+[Alexandre Cormeraie — AI & Innovation, TGV Europe (SNCF)](https://cormeraie.fr/en/alexandre-cormeraie/)
+
+Alexandre Cormeraie is Head of AI & Innovation for TGV Europe, in the TGV Marketing division of SNCF Voyageurs, in Paris. He puts generative AI into production — real tools for real users — and built the SNCF group's first “AI Native” innovation department. On the side he ships AI apps with Connected Mate, publishes open-source tools for coding agents, and speaks at CEDEP and INSEAD. He won the Spark Spin Off prize at the France Corporate Innovation Awards 2026.
+
+### Applied AI at SNCF
+
+Since July 2025 his mission has been to grow digital innovation in the TGV Marketing division and make generative AI a concrete lever for business teams. In a few months the AI team he leads has used, all members together, 240 billion tokens and built more than 20 internal apps, with up to 5 AI agents per task.
+
+- **Citizen Creators programme, with Figma**: The SNCF group's first vibe-coding programme: internal apps built entirely by AI and rolled out to business teams.
+- **SNCF's first MCP server**: The group's very first MCP (Model Context Protocol) server, connected to SNCF Open Data, and support for the SNCF Connect MCP app in ChatGPT.
+- **Booking a TGV ticket by voice**: The first TGV ticket booked by voice in December 2023 with OpenAI, then the use case in production, and a first speech-to-speech AI built to support the phone line.
+- **Patrick Code**: A self-hosted coding-agent orchestrator (Claude Code, Codex, OpenCode) plugged into the group's AI providers (AWS Bedrock, Azure AI Foundry), used by several group entities.
+- **Creative Studio & Presentation Studio**: Internal generative platforms, entirely vibe-coded, used by 400 to 500 people every month.
+- **Apple Vision Pro and TGV INOUI Experience**: 15 headsets and 5 apps (sales teams, maintenance centres, executive committee, immersive podcast, public App Store): TGV INOUI became the first rail company in the world to offer an immersive trip aboard its newest trains. (https://apps.apple.com/fr/app/tgv-inoui-experience/id6749140401)
+- **An agent-ready TGV INOUI design system**: A design system AI agents can drive, and partnerships with Apple, Google Cloud and Meta.
+
+### AI app developer
+
+With Connected Mate he designs and ships, alone and with AI, apps for iPhone and Mac and tools for coding with agents.
+
+- **NoteTaker AI**: Meeting summaries 100% on the iPhone with Apple Foundation Models: no data leaves the device. Featured by Apple, shown on BFM Business, 1,800+ downloads. (https://connectedmate.com/notetaker-ai.html)
+- **Dys Keyboard**: A keyboard designed for people who find writing hard, approved by Apple for kids. (https://connectedmate.com/dys-keyboard.html)
+- **Better Dictate**: Fast, private dictation for Mac, powered by Whisper, 100% offline. (https://connectedmate.com/better-dictate.html)
+- **AnnotateKit and Agentation**: Point at what should change instead of describing it, and the coding agent gets precise feedback. Agentation turns it into a way of working — “Don't vibe code, vibe create”. (https://agentation.fr)
+- **Open source**: fable-mindset, gptimage, corporate-launcher, MacPulse, TokenWatt: free tools around coding agents and local AI. (https://github.com/Connected-Mate)
+
+### AI speaker
+
+He speaks to executives and the public about AI adoption in companies, vibe coding and the role of digital natives.
+
+- **CEDEP — Executive Development, Fontainebleau**: Faculty speaker since November 2023: AI adoption workshops for L'Oréal, Renault, Safran, Nexus and Danske Bank.
+- **INSEAD, CFAO, Nexus Automotive**: Keynotes on applied AI for executive audiences.
+- **Agent at Scale**: From vibe coding to an organisation of agents, presented at S-Tron China and Comet; and the first event bringing the Claude Code and Cursor communities together, hosted by TGV.
+- **Connected Mate podcast**: Conversations about applied AI with the people who put it into production.
+
+### Career
+
+- 2026: Winner, Spark Spin Off prize — France Corporate Innovation Awards
+- Since July 2025: Head of AI & Innovation — TGV Europe · SNCF Voyageurs, Paris
+- 2023 – 2025: Innovation project manager — TGV Europe · SNCF Voyageurs — first generative-AI and Apple Vision Pro prototypes
+- Since 2023: Faculty speaker — CEDEP, Fontainebleau
+- Since 2024: Founder — Connected Mate — AI apps, podcast, open source
+- 2022 – 2023: Digital project manager — #BonjourPPC, Paris
+- 2021: Global app manager — Sneakify — iOS and web app
+- Since 2018: Volunteer firefighter, senior corporal — SDIS 77, Fontainebleau station
+
+### Frequently asked questions
+
+**Who is Alexandre Cormeraie?**
+Alexandre Cormeraie is Head of AI & Innovation for TGV Europe at SNCF Voyageurs, in Paris. An applied AI builder, he set up the SNCF group's first “AI Native” innovation department, ships AI apps with Connected Mate and speaks at CEDEP and INSEAD. He won the Spark Spin Off prize at the France Corporate Innovation Awards 2026.
+
+**What does Alexandre Cormeraie do at SNCF?**
+He puts generative AI into production in the TGV Marketing division: the Citizen Creators vibe-coding programme with Figma, the group's first MCP server connected to SNCF Open Data, TGV ticket booking by voice, the Creative Studio and Presentation Studio platforms, and TGV INOUI's Apple Vision Pro programme.
+
+**What is SNCF's Citizen Creators programme?**
+It is the SNCF group's first vibe-coding programme, run with Figma: non-technical business profiles create internal apps built entirely by AI, alongside a tech lead who reviews and ships them.
+
+**Who leads AI at TGV Europe?**
+Alexandre Cormeraie is Head of AI & Innovation for TGV Europe, in the TGV Marketing division of SNCF Voyageurs, in Paris. He set up the SNCF group's first “AI Native” innovation department there.
+
+**Is vibe coding used at SNCF?**
+Yes. Through the Citizen Creators programme, run with Figma, business teams at SNCF Voyageurs build internal apps developed by AI, guided by a tech lead who reviews and ships them. Since July 2025, TGV Europe's AI & Innovation team has built more than 20 internal apps.
+
+**What is Patrick Code?**
+Patrick Code is a self-hosted coding-agent orchestrator (Claude Code, Codex, OpenCode) designed by TGV Europe's AI & Innovation team. It is plugged into the SNCF group's AI providers and used by several group entities.
+
+**What is SNCF's first MCP server?**
+The SNCF group's first MCP (Model Context Protocol) server was built by TGV Europe's AI & Innovation team and connected to SNCF Open Data; the team then supported the SNCF Connect MCP app in ChatGPT.
+
+**Which AI apps has Alexandre Cormeraie built?**
+NoteTaker AI (meeting summaries fully on the iPhone), Dys Keyboard, Better Dictate, AnnotateKit, SpecDrive and Builder Nutch, plus open-source tools for coding agents. All are on the Apps page of cormeraie.fr.
+
+**How can I contact Alexandre Cormeraie for a talk or an AI project?**
+By email at bonjour@cormeraie.fr, on LinkedIn or through his Malt profile.
+
+## Articles (Français)
+
+- [Le vibe coding n’était qu’un début](https://cormeraie.fr/fr/posts/le-vibe-coding-netait-quun-debut/) (2026-08-12): Le vibe coding est une méthode, pas une technologie, et il ne tient pas en entreprise. L’écosystème d’après : deux profils, une boucle, trois agents.
+- [Préparez-vous à la nouvelle plateforme](https://cormeraie.fr/fr/posts/preparez-vous-a-la-nouvelle-plateforme/) (2026-08-13): Avec l’IA, deux nouvelles plateformes arrivent : MCP d’un côté, App Intents d’Apple de l’autre. Pourquoi coder par plateforme, et quoi garder.
+
+## Apps (Français)
+
+- [Apps IA : Mac, iPhone, agents de code](https://cormeraie.fr/fr/x/): Les apps IA d’Alexandre Cormeraie, builder en IA appliquée à Paris : Mac, iPhone, outils pour coder avec l’IA, et projets d’IA à la SNCF.
+- [Builder Nutch](https://connected-mate.github.io/builder-nutch/): Tous vos abonnements IA dans l'encoche du Mac : les jetons consommés, le passage d'un compte à l'autre, et votre podium IA du jour à partager.
+- [AnnotateKit](https://connected-mate.github.io/annotate-kit/): Annotez votre app iOS en cours d'exécution, d'un doigt, et envoyez le retour d'interface structuré à un agent de code.
+- [Better Dictate](https://connectedmate.com/better-dictate.html): Dictée vocale native pour Mac, propulsée par Whisper. Transcription privée, précise et ultra-rapide — 100 % hors ligne.
+- [Dys Keyboard](https://connectedmate.com/dys-keyboard.html): Le clavier qu'on aurait tous dû avoir. Touches plus grandes, code couleur qui guide l'œil et soulage la mémoire.
+- [NoteTaker AI](https://connectedmate.com/notetaker-ai.html): Enregistre, transcrit et analyse vos conversations. 100 % privé.
+- [Pock](https://connectedmate.com/pock.html): Votre patrimoine, en un coup d'œil. Comptes bancaires, investissements, crypto et immobilier dans une app élégante et 100 % privée.
+- [SpecDrive](https://connected-mate.github.io/specdrive-site/fr/): Le développement piloté par la spec, mais imposé : specs, scénarios, tâches à preuve et revue indépendante.
+- [Balaye](https://connected-mate.github.io/balaye/en/): Le ménage du Mac, un fichier à la fois : à gauche il part, à droite il reste. Rien n'est jamais supprimé, ⌘Z le ramène.
+
+## Designs & Sites (Français)
+
+- [Linear — Linear, Inc.](https://cormeraie.fr/fr/designs/linear/): Un outil de gestion de projet qui se pilote entièrement au clavier, sans jamais toucher la souris.
+- [rauno.me — Rauno Freiberg](https://cormeraie.fr/fr/designs/rauno-freiberg/): Le site d’un designer d’interactions qui est lui-même sa meilleure pièce de portfolio.
+- [Arc — The Browser Company](https://cormeraie.fr/fr/designs/arc-browser/): Le navigateur qui a osé déplacer les onglets à la verticale, après 25 ans de statu quo.
+- [Things 3 — Cultured Code](https://cormeraie.fr/fr/designs/things-3/): Un gestionnaire de tâches où l’animation à ressort remplace le simple rafraîchissement d’écran.
+- [Raycast](https://cormeraie.fr/fr/sites/raycast/): Un clavier animé qui démontre le produit mieux que trois paragraphes de pitch
+- [Linear](https://cormeraie.fr/fr/sites/linear/): Un site produit qui refuse tout ce qui ne sert pas la démonstration
+- [Stripe Docs](https://cormeraie.fr/fr/sites/stripe-docs/): Le panneau de code qui scrolle avec vous — copié partout, égalé nulle part
+- [Arc](https://cormeraie.fr/fr/sites/arc/): Le navigateur qui a osé toucher à la sidebar — et il avait raison
+- [kottke.org](https://cormeraie.fr/fr/sites/kottke/): Vingt-huit ans de liens commentés, sans un seul réflexe growth
+- [Teenage Engineering](https://cormeraie.fr/fr/sites/teenage-engineering/): Chaque synthé photographié comme une pièce de musée, jamais une main dessus
+
+## Articles (English)
+
+- [Vibe coding was only the beginning](https://cormeraie.fr/en/posts/vibe-coding-was-only-the-beginning/) (2026-08-12): Vibe coding is a way of working, not a technology, and it does not hold up in the enterprise. What comes next: two profiles, one loop, three agents.
+- [Get ready for the new platform](https://cormeraie.fr/en/posts/get-ready-for-the-new-platform/) (2026-08-13): With AI, two new platforms are arriving: MCP on one side, Apple's App Intents on the other. Why to build per platform, and what to keep.
+
+## Apps (English)
+
+- [AI apps: Mac, iPhone, coding agents](https://cormeraie.fr/en/x/): AI apps by Alexandre Cormeraie, applied AI builder in Paris: Mac, iPhone, tools for coding with AI, and applied AI projects at SNCF.
+- [Builder Nutch](https://connected-mate.github.io/builder-nutch/): All your AI subscriptions in the Mac's notch: tokens used, hand-offs between accounts, and today's AI podium, ready to share.
+- [AnnotateKit](https://connected-mate.github.io/annotate-kit/): Tap to annotate your running iOS app, and hand the structured UI feedback straight to an AI coding agent.
+- [Better Dictate](https://connectedmate.com/better-dictate.html): Native voice dictation for the Mac, powered by Whisper. Private, accurate, very fast transcription — 100% offline.
+- [Dys Keyboard](https://connectedmate.com/dys-keyboard.html): The keyboard we should all have had. Bigger keys, and a colour code that guides the eye and spares the memory.
+- [NoteTaker AI](https://connectedmate.com/notetaker-ai.html): Records, transcribes and analyses your conversations. 100% private.
+- [Pock](https://connectedmate.com/pock.html): Your net worth, at a glance. Bank accounts, investments, crypto and property in one elegant, fully private app.
+- [SpecDrive](https://connected-mate.github.io/specdrive-site/): Spec-driven development, enforced: specs, scenarios, proof-gated tasks and independent review.
+- [Balaye](https://connected-mate.github.io/balaye/en/): Clean up your Mac one file at a time: swipe left it goes, swipe right it stays. Nothing is ever deleted, ⌘Z brings it back.
+
+## Designs & Sites (English)
+
+- [Linear — Linear, Inc.](https://cormeraie.fr/en/designs/linear/): A project management tool you can drive entirely from the keyboard, without ever touching the mouse.
+- [rauno.me — Rauno Freiberg](https://cormeraie.fr/en/designs/rauno-freiberg/): The site of an interaction designer that is itself his best portfolio piece.
+- [Arc — The Browser Company](https://cormeraie.fr/en/designs/arc-browser/): The browser that dared to turn tabs vertical, after 25 years of status quo.
+- [Things 3 — Cultured Code](https://cormeraie.fr/en/designs/things-3/): A task manager where spring animation replaces the plain screen refresh.
+- [Raycast](https://cormeraie.fr/en/sites/raycast/): An animated keyboard that demonstrates the product better than three paragraphs of pitch
+- [Linear](https://cormeraie.fr/en/sites/linear/): A product site that refuses everything that doesn't serve the demonstration
+- [Stripe Docs](https://cormeraie.fr/en/sites/stripe-docs/): The code panel that scrolls with you — copied everywhere, equalled nowhere
+- [Arc](https://cormeraie.fr/en/sites/arc/): The browser that dared to touch the sidebar — and it was right
+- [kottke.org](https://cormeraie.fr/en/sites/kottke/): Twenty-eight years of annotated links, without a single growth reflex
+- [Teenage Engineering](https://cormeraie.fr/en/sites/teenage-engineering/): Every synth photographed like a museum piece, never a hand on it
+
+## Optional
+
+- [Full text of every article](https://cormeraie.fr/llms-full.txt)
+- [RSS (fr)](https://cormeraie.fr/fr/rss.xml)
+- [RSS (en)](https://cormeraie.fr/en/rss.xml)
+- [Sitemap](https://cormeraie.fr/sitemap.xml)

@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/21glpme8ez2t_.js","/_next/static/chunks/3duqmw4bxi7i_.js"],""]
+4:I[56392,["/_next/static/chunks/21glpme8ez2t_.js","/_next/static/chunks/3duqmw4bxi7i_.js"],"Underline"]
+5:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+:HL["/sites/stripe-docs.svg","image"]
+2:T465,[{"@context":"https://schema.org","@type":"WebPage","name":"Stripe Docs","description":"Le panneau de code qui scrolle avec vous — copié partout, égalé nulle part","url":"https://cormeraie.fr/fr/sites/stripe-docs/","inLanguage":"fr-FR","datePublished":"2026-04-14T00:00:00.000Z","author":{"@type":"Person","@id":"https://cormeraie.fr/#author","name":"Alexandre Cormeraie","url":"https://cormeraie.fr"},"isPartOf":{"@type":"WebSite","name":"Cormeraie","url":"https://cormeraie.fr"},"about":{"@type":"WebSite","name":"Stripe Docs","url":"https://docs.stripe.com"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://cormeraie.fr/fr/sites/stripe-docs/opengraph-image.png","caption":"Stripe Docs — carte de partage de Cormeraie","width":1200,"height":630}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Cormeraie","item":"https://cormeraie.fr"},{"@type":"ListItem","position":2,"name":"Sites","item":"https://cormeraie.fr/fr/sites/"},{"@type":"ListItem","position":3,"name":"Stripe Docs","item":"https://cormeraie.fr/fr/sites/stripe-docs/"}]}]9:X
+2e:X
+2e:C
+0:{"buildId":"3fHMMESxE1Iv-4XG0apjk","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-[720px] px-6 pt-20 pb-28 sm:px-10 sm:pt-28","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","p",null,{"className":"font-mono text-[11px] tracking-wider text-ink-500 uppercase","children":[["$","$L3",null,{"href":"/fr/sites/","className":"hover:text-ink-900","children":"Sites"}]," ","· ","avril 2026"," · Documentation"]}],["$","div",null,{"className":"mt-4 flex items-center gap-4","children":[["$","img",null,{"src":"/sites/stripe-docs.svg","alt":"","aria-hidden":"true","className":"h-10 w-10 shrink-0"}],["$","h1",null,{"className":"font-display text-[36px] leading-[1.1] font-semibold tracking-tight text-ink-900 sm:text-[48px]","children":"Stripe Docs"}]]}],["$","a",null,{"href":"https://docs.stripe.com","target":"_blank","rel":"noopener noreferrer","className":"mt-6 inline-block font-mono text-[13px] tracking-wider text-accent uppercase underline decoration-1 underline-offset-4","children":["Visiter le site"," →",["$","span",null,{"className":"sr-only","children":[" (","nouvel onglet",")"]}]]}],["$","article",null,{"className":"mt-10","children":["$","p",null,{"className":"mt-5 text-[17px] leading-[1.6] text-ink-800 first:mt-0","children":["Ouvrez n’importe quelle page de docs.stripe.com : la prose à gauche, le code à droite, et ce panneau de droite ",["$","$L4",null,{"children":"reste synchronisé pendant que vous scrollez"}],". Basculez de curl à Node ou Python, l’exemple change instantanément, et votre choix de langage vous suit de page en page. Ce pattern a été copié par des dizaines de documentations techniques depuis — rarement aussi bien. L’autre décision forte, c’est l’architecture : tout est rangé par verticaux produit (Payments, Revenue, Money management…) plutôt que par API — c’est-à-dire selon l’intention du lecteur, pas selon l’organigramme interne. Une doc aussi dense qui reste lisible, c’est ça, le vrai luxe."]}]}]]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stripe Docs | Cormeraie"}],["$","meta","1",{"name":"description","content":"Le panneau de code qui scrolle avec vous — copié partout, égalé nulle part"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}]}],"$L2a"]}],"isPartial":"$@2b","staleTime":"$9","varyParams":null},{"rsc":"$L2c","isPartial":"$@2d","staleTime":"$9","varyParams":"$2e"},{"rsc":"$L2f","isPartial":"$@30","staleTime":"$9","varyParams":"$2e"}],"isUpgradeableISRFallback":false,"a":"$@31","rootVaryParams":null,"needsRuntimeRequest":"$@32"}
+33:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+34:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+35:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+7:null
+c:["$","link","2",{"rel":"author","href":"https://cormeraie.fr/fr/alexandre-cormeraie/"}]
+d:["$","meta","3",{"name":"author","content":"Alexandre Cormeraie"}]
+e:["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}]
+f:["$","meta","5",{"name":"creator","content":"Alexandre Cormeraie"}]
+10:["$","meta","6",{"name":"robots","content":"index, follow"}]
+11:["$","link","7",{"rel":"canonical","href":"https://cormeraie.fr/fr/sites/stripe-docs/"}]
+12:["$","link","8",{"rel":"alternate","hrefLang":"fr","href":"https://cormeraie.fr/fr/sites/stripe-docs/"}]
+13:["$","link","9",{"rel":"alternate","hrefLang":"en","href":"https://cormeraie.fr/en/sites/stripe-docs/"}]
+14:["$","link","10",{"rel":"alternate","hrefLang":"x-default","href":"https://cormeraie.fr/fr/sites/stripe-docs/"}]
+15:["$","link","11",{"rel":"alternate","type":"application/rss+xml","href":"https://cormeraie.fr/fr/rss.xml"}]
+16:["$","meta","12",{"property":"og:title","content":"Stripe Docs | Cormeraie"}]
+17:["$","meta","13",{"property":"og:description","content":"Le panneau de code qui scrolle avec vous — copié partout, égalé nulle part"}]
+18:["$","meta","14",{"property":"og:url","content":"https://cormeraie.fr/fr/sites/stripe-docs/"}]
+19:["$","meta","15",{"property":"og:site_name","content":"Cormeraie"}]
+1a:["$","meta","16",{"property":"og:locale","content":"fr_FR"}]
+1b:["$","meta","17",{"property":"og:image","content":"https://cormeraie.fr/fr/sites/stripe-docs/opengraph-image.png"}]
+1c:["$","meta","18",{"property":"og:image:width","content":"1200"}]
+1d:["$","meta","19",{"property":"og:image:height","content":"630"}]
+1e:["$","meta","20",{"property":"og:image:alt","content":"Stripe Docs — carte de partage de Cormeraie"}]
+1f:["$","meta","21",{"property":"og:type","content":"article"}]
+20:["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}]
+21:["$","meta","23",{"name":"twitter:title","content":"Stripe Docs"}]
+22:["$","meta","24",{"name":"twitter:description","content":"Le panneau de code qui scrolle avec vous — copié partout, égalé nulle part"}]
+23:["$","meta","25",{"name":"twitter:image","content":"https://cormeraie.fr/fr/sites/stripe-docs/opengraph-image.png"}]
+24:["$","meta","26",{"name":"twitter:image:alt","content":"Stripe Docs — carte de partage de Cormeraie"}]
+25:["$","meta","27",{"name":"twitter:image:width","content":"1200"}]
+26:["$","meta","28",{"name":"twitter:image:height","content":"630"}]
+27:["$","link","29",{"rel":"icon","href":"/icon.png?12c1a6044b82a43c","type":"image/png","sizes":"64x64"}]
+28:["$","link","30",{"rel":"apple-touch-icon","href":"/apple-icon.png?15d0c3e366bc9dcb","type":"image/png","sizes":"180x180"}]
+29:["$","$L33","31",{}]
+2a:["$","meta",null,{"name":"next-size-adjust","content":""}]
+2c:["$","$1","c",{"children":[null,["$","$L34",null,{"parallelRouterKey":"children","template":["$","$L35",null,{}]}]]}]
+2f:["$","$1","c",{"children":[null,["$","$L34",null,{"parallelRouterKey":"children","template":["$","$L35",null,{}]}]]}]
+32:true
+9:300
+9:C
+31:0
+2b:"$undefined"
+2d:"$undefined"
+30:"$undefined"
+8:"$undefined"

@@ -1,0 +1,56 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/21glpme8ez2t_.js","/_next/static/chunks/3duqmw4bxi7i_.js"],""]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+:HL["/sites/raycast.svg","image"]
+2:T445,[{"@context":"https://schema.org","@type":"WebPage","name":"Raycast","description":"Un clavier animé qui démontre le produit mieux que trois paragraphes de pitch","url":"https://cormeraie.fr/fr/sites/raycast/","inLanguage":"fr-FR","datePublished":"2026-07-08T00:00:00.000Z","author":{"@type":"Person","@id":"https://cormeraie.fr/#author","name":"Alexandre Cormeraie","url":"https://cormeraie.fr"},"isPartOf":{"@type":"WebSite","name":"Cormeraie","url":"https://cormeraie.fr"},"about":{"@type":"WebSite","name":"Raycast","url":"https://raycast.com"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://cormeraie.fr/fr/sites/raycast/opengraph-image.png","caption":"Raycast — carte de partage de Cormeraie","width":1200,"height":630}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Cormeraie","item":"https://cormeraie.fr"},{"@type":"ListItem","position":2,"name":"Sites","item":"https://cormeraie.fr/fr/sites/"},{"@type":"ListItem","position":3,"name":"Raycast","item":"https://cormeraie.fr/fr/sites/raycast/"}]}]8:X
+2d:X
+2d:C
+0:{"buildId":"3fHMMESxE1Iv-4XG0apjk","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-[720px] px-6 pt-20 pb-28 sm:px-10 sm:pt-28","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","p",null,{"className":"font-mono text-[11px] tracking-wider text-ink-500 uppercase","children":[["$","$L3",null,{"href":"/fr/sites/","className":"hover:text-ink-900","children":"Sites"}]," ","· ","juillet 2026"," · Produit, Interaction"]}],["$","div",null,{"className":"mt-4 flex items-center gap-4","children":[["$","img",null,{"src":"/sites/raycast.svg","alt":"","aria-hidden":"true","className":"h-10 w-10 shrink-0"}],["$","h1",null,{"className":"font-display text-[36px] leading-[1.1] font-semibold tracking-tight text-ink-900 sm:text-[48px]","children":"Raycast"}]]}],["$","a",null,{"href":"https://raycast.com","target":"_blank","rel":"noopener noreferrer","className":"mt-6 inline-block font-mono text-[13px] tracking-wider text-accent uppercase underline decoration-1 underline-offset-4","children":["Visiter le site"," →",["$","span",null,{"className":"sr-only","children":[" (","nouvel onglet",")"]}]]}],["$","article",null,{"className":"mt-10","children":["$","p",null,{"className":"mt-5 text-[17px] leading-[1.6] text-ink-800 first:mt-0","children":"Sur la home de Raycast, un clavier animé rejoue les raccourcis en direct : le produit se démontre tout seul, sans vidéo, sans GIF pixelisé. C’est la bonne réponse à un vrai problème — comment vendre un outil dont toute la valeur tient dans deux touches ? Le reste du site assume un vocabulaire précis : glassmorphism, dégradés doux, un bleu vif comme fil conducteur, des témoignages portés par de vrais visages de la tech. Mais le signal le plus fort, c’est le store d’extensions : catégorisé (Productivity, Engineering, Design, Writing), alimenté par une communauté qui écrit ses extensions en React et TypeScript. Quand la marketplace est plus vivante que la page marketing, c’est que le produit tient debout."}]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Raycast | Cormeraie"}],["$","meta","1",{"name":"description","content":"Un clavier animé qui démontre le produit mieux que trois paragraphes de pitch"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}]}],"$L29"]}],"isPartial":"$@2a","staleTime":"$8","varyParams":null},{"rsc":"$L2b","isPartial":"$@2c","staleTime":"$8","varyParams":"$2d"},{"rsc":"$L2e","isPartial":"$@2f","staleTime":"$8","varyParams":"$2d"}],"isUpgradeableISRFallback":false,"a":"$@30","rootVaryParams":null,"needsRuntimeRequest":"$@31"}
+32:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+33:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+34:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+b:["$","link","2",{"rel":"author","href":"https://cormeraie.fr/fr/alexandre-cormeraie/"}]
+c:["$","meta","3",{"name":"author","content":"Alexandre Cormeraie"}]
+d:["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}]
+e:["$","meta","5",{"name":"creator","content":"Alexandre Cormeraie"}]
+f:["$","meta","6",{"name":"robots","content":"index, follow"}]
+10:["$","link","7",{"rel":"canonical","href":"https://cormeraie.fr/fr/sites/raycast/"}]
+11:["$","link","8",{"rel":"alternate","hrefLang":"fr","href":"https://cormeraie.fr/fr/sites/raycast/"}]
+12:["$","link","9",{"rel":"alternate","hrefLang":"en","href":"https://cormeraie.fr/en/sites/raycast/"}]
+13:["$","link","10",{"rel":"alternate","hrefLang":"x-default","href":"https://cormeraie.fr/fr/sites/raycast/"}]
+14:["$","link","11",{"rel":"alternate","type":"application/rss+xml","href":"https://cormeraie.fr/fr/rss.xml"}]
+15:["$","meta","12",{"property":"og:title","content":"Raycast | Cormeraie"}]
+16:["$","meta","13",{"property":"og:description","content":"Un clavier animé qui démontre le produit mieux que trois paragraphes de pitch"}]
+17:["$","meta","14",{"property":"og:url","content":"https://cormeraie.fr/fr/sites/raycast/"}]
+18:["$","meta","15",{"property":"og:site_name","content":"Cormeraie"}]
+19:["$","meta","16",{"property":"og:locale","content":"fr_FR"}]
+1a:["$","meta","17",{"property":"og:image","content":"https://cormeraie.fr/fr/sites/raycast/opengraph-image.png"}]
+1b:["$","meta","18",{"property":"og:image:width","content":"1200"}]
+1c:["$","meta","19",{"property":"og:image:height","content":"630"}]
+1d:["$","meta","20",{"property":"og:image:alt","content":"Raycast — carte de partage de Cormeraie"}]
+1e:["$","meta","21",{"property":"og:type","content":"article"}]
+1f:["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}]
+20:["$","meta","23",{"name":"twitter:title","content":"Raycast"}]
+21:["$","meta","24",{"name":"twitter:description","content":"Un clavier animé qui démontre le produit mieux que trois paragraphes de pitch"}]
+22:["$","meta","25",{"name":"twitter:image","content":"https://cormeraie.fr/fr/sites/raycast/opengraph-image.png"}]
+23:["$","meta","26",{"name":"twitter:image:alt","content":"Raycast — carte de partage de Cormeraie"}]
+24:["$","meta","27",{"name":"twitter:image:width","content":"1200"}]
+25:["$","meta","28",{"name":"twitter:image:height","content":"630"}]
+26:["$","link","29",{"rel":"icon","href":"/icon.png?12c1a6044b82a43c","type":"image/png","sizes":"64x64"}]
+27:["$","link","30",{"rel":"apple-touch-icon","href":"/apple-icon.png?15d0c3e366bc9dcb","type":"image/png","sizes":"180x180"}]
+28:["$","$L32","31",{}]
+29:["$","meta",null,{"name":"next-size-adjust","content":""}]
+2b:["$","$1","c",{"children":[null,["$","$L33",null,{"parallelRouterKey":"children","template":["$","$L34",null,{}]}]]}]
+2e:["$","$1","c",{"children":[null,["$","$L33",null,{"parallelRouterKey":"children","template":["$","$L34",null,{}]}]]}]
+31:true
+8:300
+8:C
+30:0
+2a:"$undefined"
+2c:"$undefined"
+2f:"$undefined"
+7:"$undefined"

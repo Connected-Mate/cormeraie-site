@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[Alexandre Cormeraie — Cormeraie]]></title>
+    <link>https://cormeraie.fr/fr/</link>
+    <description><![CDATA[Un seul objectif : créer la meilleure expérience possible — avec l'IA. Mes apps, mes articles, ce que j'admire.]]></description>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://cormeraie.fr/fr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[Préparez-vous à la nouvelle plateforme]]></title>
+      <description><![CDATA[Android et iOS sont des plateformes, pas deux cibles d’un même code. Avec l’IA, deux nouvelles plateformes arrivent — MCP d’un côté, App Intents de l’autre — et elles ne se travaillent pas de la même façon.]]></description>
+      <link>https://cormeraie.fr/fr/posts/preparez-vous-a-la-nouvelle-plateforme/</link>
+      <guid isPermaLink="true">https://cormeraie.fr/fr/posts/preparez-vous-a-la-nouvelle-plateforme</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Plateformes</category>
+    </item>
+    <item>
+      <title><![CDATA[Le vibe coding n’était qu’un début]]></title>
+      <description><![CDATA[Il n’a jamais été fait pour l’entreprise. Ce qui vient après, ce sont des profils non techniques qui créent du software sans voir une seule ligne de code — et ça demande une organisation que personne n’outille encore.]]></description>
+      <link>https://cormeraie.fr/fr/posts/le-vibe-coding-netait-quun-debut/</link>
+      <guid isPermaLink="true">https://cormeraie.fr/fr/posts/le-vibe-coding-netait-quun-debut</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Métier</category>
+    </item>
+  </channel>
+</rss>

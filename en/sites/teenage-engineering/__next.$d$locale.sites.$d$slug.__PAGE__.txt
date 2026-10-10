@@ -1,0 +1,58 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/21glpme8ez2t_.js","/_next/static/chunks/3duqmw4bxi7i_.js"],""]
+4:I[56392,["/_next/static/chunks/21glpme8ez2t_.js","/_next/static/chunks/3duqmw4bxi7i_.js"],"Box"]
+5:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+:HL["/sites/teenage-engineering.svg","image"]
+2:T489,[{"@context":"https://schema.org","@type":"WebPage","name":"Teenage Engineering","description":"Every synth photographed like a museum piece, never a hand on it","url":"https://cormeraie.fr/en/sites/teenage-engineering/","inLanguage":"en-GB","datePublished":"2025-09-30T00:00:00.000Z","author":{"@type":"Person","@id":"https://cormeraie.fr/#author","name":"Alexandre Cormeraie","url":"https://cormeraie.fr"},"isPartOf":{"@type":"WebSite","name":"Cormeraie","url":"https://cormeraie.fr"},"about":{"@type":"WebSite","name":"Teenage Engineering","url":"https://teenage.engineering"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://cormeraie.fr/en/sites/teenage-engineering/opengraph-image.png","caption":"Teenage Engineering — Cormeraie share card","width":1200,"height":630}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Cormeraie","item":"https://cormeraie.fr"},{"@type":"ListItem","position":2,"name":"Sites","item":"https://cormeraie.fr/en/sites/"},{"@type":"ListItem","position":3,"name":"Teenage Engineering","item":"https://cormeraie.fr/en/sites/teenage-engineering/"}]}]9:X
+2f:X
+2f:C
+0:{"buildId":"3fHMMESxE1Iv-4XG0apjk","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-[720px] px-6 pt-20 pb-28 sm:px-10 sm:pt-28","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","p",null,{"className":"font-mono text-[11px] tracking-wider text-ink-500 uppercase","children":[["$","$L3",null,{"href":"/en/sites/","className":"hover:text-ink-900","children":"Sites"}]," ","· ","September 2025"," · Hardware, Identity"]}],["$","div",null,{"className":"mt-4 flex items-center gap-4","children":[["$","img",null,{"src":"/sites/teenage-engineering.svg","alt":"","aria-hidden":"true","className":"h-10 w-10 shrink-0"}],["$","h1",null,{"className":"font-display text-[36px] leading-[1.1] font-semibold tracking-tight text-ink-900 sm:text-[48px]","children":"Teenage Engineering"}]]}],["$","a",null,{"href":"https://teenage.engineering","target":"_blank","rel":"noopener noreferrer","className":"mt-6 inline-block font-mono text-[13px] tracking-wider text-accent uppercase underline decoration-1 underline-offset-4","children":["Visit the site"," →",["$","span",null,{"className":"sr-only","children":[" (","new tab",")"]}]]}],["$","article",null,{"className":"mt-10","children":["$","p",null,{"className":"mt-5 text-[17px] leading-[1.6] text-ink-800 first:mt-0","children":["The teenage.engineering catalogue is a modular grid where every device gets exactly the same treatment: isolated, centred, neutral background, systematic framing. ",["$","$L4",null,{"children":"No lifestyle photography, ever"}]," — no loft bathed in golden light, no tattooed hands on an OP-1. The object is enough, as in a museum catalogue. The technical sans-serif typography and minimal navigation extend the same idea: the site is built like one of their instruments — austere, precise, unornamented. It's a rare bet — most brands don't dare leave their products alone in front of the visitor. Here, that unapologetic coldness has become the signature: you recognise a Teenage Engineering page before you've read the name."]}]}]]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Teenage Engineering | Cormeraie"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a"]}]}]}],"$L2b"]}],"isPartial":"$@2c","staleTime":"$9","varyParams":null},{"rsc":"$L2d","isPartial":"$@2e","staleTime":"$9","varyParams":"$2f"},{"rsc":"$L30","isPartial":"$@31","staleTime":"$9","varyParams":"$2f"}],"isUpgradeableISRFallback":false,"a":"$@32","rootVaryParams":null,"needsRuntimeRequest":"$@33"}
+34:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+35:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+36:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+7:null
+c:["$","meta","1",{"name":"description","content":"Every synth photographed like a museum piece, never a hand on it"}]
+d:["$","link","2",{"rel":"author","href":"https://cormeraie.fr/en/alexandre-cormeraie/"}]
+e:["$","meta","3",{"name":"author","content":"Alexandre Cormeraie"}]
+f:["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}]
+10:["$","meta","5",{"name":"creator","content":"Alexandre Cormeraie"}]
+11:["$","meta","6",{"name":"robots","content":"index, follow"}]
+12:["$","link","7",{"rel":"canonical","href":"https://cormeraie.fr/en/sites/teenage-engineering/"}]
+13:["$","link","8",{"rel":"alternate","hrefLang":"fr","href":"https://cormeraie.fr/fr/sites/teenage-engineering/"}]
+14:["$","link","9",{"rel":"alternate","hrefLang":"en","href":"https://cormeraie.fr/en/sites/teenage-engineering/"}]
+15:["$","link","10",{"rel":"alternate","hrefLang":"x-default","href":"https://cormeraie.fr/fr/sites/teenage-engineering/"}]
+16:["$","link","11",{"rel":"alternate","type":"application/rss+xml","href":"https://cormeraie.fr/en/rss.xml"}]
+17:["$","meta","12",{"property":"og:title","content":"Teenage Engineering | Cormeraie"}]
+18:["$","meta","13",{"property":"og:description","content":"Every synth photographed like a museum piece, never a hand on it"}]
+19:["$","meta","14",{"property":"og:url","content":"https://cormeraie.fr/en/sites/teenage-engineering/"}]
+1a:["$","meta","15",{"property":"og:site_name","content":"Cormeraie"}]
+1b:["$","meta","16",{"property":"og:locale","content":"en_GB"}]
+1c:["$","meta","17",{"property":"og:image","content":"https://cormeraie.fr/en/sites/teenage-engineering/opengraph-image.png"}]
+1d:["$","meta","18",{"property":"og:image:width","content":"1200"}]
+1e:["$","meta","19",{"property":"og:image:height","content":"630"}]
+1f:["$","meta","20",{"property":"og:image:alt","content":"Teenage Engineering — Cormeraie share card"}]
+20:["$","meta","21",{"property":"og:type","content":"article"}]
+21:["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}]
+22:["$","meta","23",{"name":"twitter:title","content":"Teenage Engineering"}]
+23:["$","meta","24",{"name":"twitter:description","content":"Every synth photographed like a museum piece, never a hand on it"}]
+24:["$","meta","25",{"name":"twitter:image","content":"https://cormeraie.fr/en/sites/teenage-engineering/opengraph-image.png"}]
+25:["$","meta","26",{"name":"twitter:image:alt","content":"Teenage Engineering — Cormeraie share card"}]
+26:["$","meta","27",{"name":"twitter:image:width","content":"1200"}]
+27:["$","meta","28",{"name":"twitter:image:height","content":"630"}]
+28:["$","link","29",{"rel":"icon","href":"/icon.png?12c1a6044b82a43c","type":"image/png","sizes":"64x64"}]
+29:["$","link","30",{"rel":"apple-touch-icon","href":"/apple-icon.png?15d0c3e366bc9dcb","type":"image/png","sizes":"180x180"}]
+2a:["$","$L34","31",{}]
+2b:["$","meta",null,{"name":"next-size-adjust","content":""}]
+2d:["$","$1","c",{"children":[null,["$","$L35",null,{"parallelRouterKey":"children","template":["$","$L36",null,{}]}]]}]
+30:["$","$1","c",{"children":[null,["$","$L35",null,{"parallelRouterKey":"children","template":["$","$L36",null,{}]}]]}]
+33:true
+9:300
+9:C
+32:0
+2c:"$undefined"
+2e:"$undefined"
+31:"$undefined"
+8:"$undefined"
