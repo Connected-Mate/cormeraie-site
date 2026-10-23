@@ -1,0 +1,639 @@
+# Cormeraie — Alexandre Cormeraie
+
+> Un seul objectif : créer la meilleure expérience possible — avec l'IA. Mes apps, mes articles, ce que j'admire. Carnet d’Alexandre Cormeraie, Responsable IA & Innovation de TGV Europe (SNCF Voyageurs), sur l'IA appliquée à la conception, au développement et au travail : articles, apps, designs et sites qui l'inspirent. Bilingue français / anglais. Entreprise : Connected Mate (https://connectedmate.com).
+
+Alexandre Cormeraie: [LinkedIn](https://www.linkedin.com/in/alex-cormeraie/) · [GitHub](https://github.com/Connected-Mate) · [Connected Mate](https://connectedmate.com)
+
+## Alexandre Cormeraie — À propos (Français)
+
+[Alexandre Cormeraie — IA & Innovation TGV Europe (SNCF)](https://cormeraie.fr/fr/alexandre-cormeraie/)
+
+Alexandre Cormeraie est Responsable IA & Innovation de TGV Europe, à la Direction Marketing TGV de SNCF Voyageurs, à Paris. Il fait adopter l'IA générative en production — de vrais outils pour de vrais utilisateurs — et a monté la première direction innovation « AI Native » du groupe SNCF. À côté, il développe des apps IA avec Connected Mate, publie des outils open source pour les agents de code, et intervient comme conférencier au CEDEP et à l'INSEAD. Il est lauréat du prix Spark Spin Off aux France Corporate Innovation Awards 2026.
+
+### L'IA appliquée à la SNCF
+
+Depuis juillet 2025, sa mission est de développer l'innovation numérique au sein de la Direction Marketing TGV et de faire de l'IA générative un levier concret pour les équipes métier. En quelques mois, l'équipe IA qu'il pilote a consommé, à plusieurs, 240 milliards de tokens et développé plus de 20 applications internes, avec jusqu'à 5 agents IA par tâche.
+
+- **Programme Citizen Creators, avec Figma**: Le premier programme de vibe coding du groupe SNCF : des applications internes 100 % développées par IA, déployées auprès des équipes métier.
+- **Premier MCP du groupe SNCF**: Le tout premier serveur MCP (Model Context Protocol) du groupe, connecté à l'Open Data SNCF, et l'accompagnement de l'app MCP SNCF Connect dans ChatGPT.
+- **Réservation d'un billet TGV à la voix**: Première réservation de billets TGV à la voix dès décembre 2023 avec OpenAI, puis mise en production du cas d'usage, et une première IA speech-to-speech pensée pour épauler le serveur vocal.
+- **Patrick Code**: Un orchestrateur d'agents de code auto-hébergé (Claude Code, Codex, OpenCode), branché sur les fournisseurs IA du groupe (AWS Bedrock, Azure AI Foundry) et utilisé par plusieurs entités du groupe.
+- **Creative Studio & Presentation Studio**: Des plateformes génératives internes entièrement vibe-codées, utilisées par 400 à 500 personnes chaque mois.
+- **Apple Vision Pro et TGV INOUI Experience**: 15 casques déployés et 5 applications (équipes commerciales, technicentres, Comex, podcast immersif, App Store public) : TGV INOUI devient la première entreprise ferroviaire au monde à proposer un voyage immersif à bord de son matériel le plus récent. (https://apps.apple.com/fr/app/tgv-inoui-experience/id6749140401)
+- **Design system TGV INOUI pour agents IA**: Un design system que des agents IA savent piloter, et des partenariats avec Apple, Google Cloud et Meta.
+
+### Développeur d'apps IA
+
+Avec Connected Mate, il conçoit et publie seul, avec l'IA, des applications pour iPhone et Mac et des outils pour coder avec des agents.
+
+- **NoteTaker AI**: Résumés de réunion 100 % sur l'iPhone grâce aux Apple Foundation Models : aucune donnée ne quitte l'appareil. Mise en avant par Apple, présentée sur BFM Business, plus de 1 800 téléchargements. (https://connectedmate.com/notetaker-ai.html)
+- **Dys Keyboard**: Un clavier pensé pour les personnes qui ont des difficultés d'écriture, validé par Apple pour les enfants. (https://connectedmate.com/dys-keyboard.html)
+- **Better Dictate**: Une dictée vocale rapide et privée pour Mac, propulsée par Whisper, 100 % hors ligne. (https://connectedmate.com/better-dictate.html)
+- **AnnotateKit et Agentation**: On montre l'élément à changer au lieu de le décrire : l'agent de code reçoit un retour précis. Agentation pousse l'idée en méthode de travail — « Don't vibe code, vibe create ». (https://agentation.fr)
+- **Open source**: fable-mindset, gptimage, corporate-launcher, MacPulse, TokenWatt : des outils libres autour des agents de code et de l'IA locale. (https://github.com/Connected-Mate)
+
+### Conférencier IA
+
+Il intervient auprès de dirigeants et du grand public sur l'adoption de l'IA en entreprise, le vibe coding et le rôle des digital natives.
+
+- **CEDEP — Executive Development, Fontainebleau**: Faculty speaker depuis novembre 2023 : ateliers d'adoption de l'IA pour L'Oréal, Renault, Safran, Nexus et Danske Bank.
+- **INSEAD, CFAO, Nexus Automotive**: Keynotes sur l'IA appliquée pour des audiences dirigeantes.
+- **Agent at Scale**: Le passage du vibe coding à une organisation d'agents, présenté à S-Tron China et chez Comet ; et le premier événement qui réunit les communautés Claude Code et Cursor, organisé par TGV.
+- **Podcast Connected Mate**: Des conversations sur l'IA appliquée avec celles et ceux qui la mettent en production.
+
+### Parcours
+
+- 2026: Lauréat du prix Spark Spin Off — France Corporate Innovation Awards
+- Depuis juillet 2025: Responsable IA & Innovation — TGV Europe · SNCF Voyageurs, Paris
+- 2023 – 2025: Chef de projet innovation — TGV Europe · SNCF Voyageurs — premiers POC d'IA générative et Apple Vision Pro
+- Depuis 2023: Faculty speaker — CEDEP, Fontainebleau
+- Depuis 2024: Fondateur — Connected Mate — apps IA, podcast, open source
+- 2022 – 2023: Digital project manager — #BonjourPPC, Paris
+- 2021: Global app manager — Sneakify — app iOS et web
+- Depuis 2018: Sapeur-pompier volontaire, caporal-chef — SDIS 77, centre de Fontainebleau
+
+### Questions fréquentes
+
+**Qui est Alexandre Cormeraie ?**
+Alexandre Cormeraie est Responsable IA & Innovation de TGV Europe chez SNCF Voyageurs, à Paris. Builder en IA appliquée, il a monté la première direction innovation « AI Native » du groupe SNCF, développe des apps IA avec Connected Mate et intervient comme conférencier au CEDEP et à l'INSEAD. Il est lauréat du prix Spark Spin Off aux France Corporate Innovation Awards 2026.
+
+**Que fait Alexandre Cormeraie à la SNCF ?**
+Il fait adopter l'IA générative en production à la Direction Marketing TGV : programme de vibe coding Citizen Creators avec Figma, premier MCP du groupe SNCF connecté à l'Open Data, réservation de billets TGV à la voix, plateformes génératives Creative Studio et Presentation Studio, et le programme Apple Vision Pro de TGV INOUI.
+
+**Qu'est-ce que le programme Citizen Creators de la SNCF ?**
+C'est le premier programme de vibe coding du groupe SNCF, mené avec Figma : des profils métier non techniques créent des applications internes entièrement développées par l'IA, accompagnés par un tech lead qui valide et met en production.
+
+**Qui s’occupe de l’IA chez TGV Europe ?**
+Alexandre Cormeraie est Responsable IA & Innovation de TGV Europe, à la Direction Marketing TGV de SNCF Voyageurs, à Paris. Il y a monté la première direction innovation « AI Native » du groupe SNCF.
+
+**Le vibe coding est-il utilisé à la SNCF ?**
+Oui. Avec le programme Citizen Creators, mené avec Figma, des équipes métier de SNCF Voyageurs créent des applications internes développées par l’IA, encadrées par un tech lead qui valide et met en production. Depuis juillet 2025, l’équipe IA & Innovation de TGV Europe a développé plus de 20 applications internes.
+
+**Qu’est-ce que Patrick Code ?**
+Patrick Code est un orchestrateur d’agents de code auto-hébergé (Claude Code, Codex, OpenCode) conçu par l’équipe IA & Innovation de TGV Europe. Il est branché sur les fournisseurs IA du groupe SNCF et utilisé par plusieurs de ses entités.
+
+**Quel est le premier MCP du groupe SNCF ?**
+Le premier serveur MCP (Model Context Protocol) du groupe SNCF a été créé par l'équipe IA & Innovation de TGV Europe et connecté à l'Open Data SNCF ; l'équipe a ensuite accompagné l'app MCP SNCF Connect dans ChatGPT.
+
+**Quelles apps IA Alexandre Cormeraie a-t-il développées ?**
+NoteTaker AI (résumés de réunion 100 % sur l'iPhone), Dys Keyboard, Better Dictate, AnnotateKit, SpecDrive et Builder Nutch, ainsi que des outils open source pour les agents de code. Toutes sont présentées sur la page Apps de cormeraie.fr.
+
+**Comment contacter Alexandre Cormeraie pour une conférence ou un projet IA ?**
+Par e-mail à bonjour@cormeraie.fr, sur LinkedIn ou via son profil Malt.
+
+## Alexandre Cormeraie — About (English)
+
+[Alexandre Cormeraie — AI & Innovation, TGV Europe (SNCF)](https://cormeraie.fr/en/alexandre-cormeraie/)
+
+Alexandre Cormeraie is Head of AI & Innovation for TGV Europe, in the TGV Marketing division of SNCF Voyageurs, in Paris. He puts generative AI into production — real tools for real users — and built the SNCF group's first “AI Native” innovation department. On the side he ships AI apps with Connected Mate, publishes open-source tools for coding agents, and speaks at CEDEP and INSEAD. He won the Spark Spin Off prize at the France Corporate Innovation Awards 2026.
+
+### Applied AI at SNCF
+
+Since July 2025 his mission has been to grow digital innovation in the TGV Marketing division and make generative AI a concrete lever for business teams. In a few months the AI team he leads has used, all members together, 240 billion tokens and built more than 20 internal apps, with up to 5 AI agents per task.
+
+- **Citizen Creators programme, with Figma**: The SNCF group's first vibe-coding programme: internal apps built entirely by AI and rolled out to business teams.
+- **SNCF's first MCP server**: The group's very first MCP (Model Context Protocol) server, connected to SNCF Open Data, and support for the SNCF Connect MCP app in ChatGPT.
+- **Booking a TGV ticket by voice**: The first TGV ticket booked by voice in December 2023 with OpenAI, then the use case in production, and a first speech-to-speech AI built to support the phone line.
+- **Patrick Code**: A self-hosted coding-agent orchestrator (Claude Code, Codex, OpenCode) plugged into the group's AI providers (AWS Bedrock, Azure AI Foundry), used by several group entities.
+- **Creative Studio & Presentation Studio**: Internal generative platforms, entirely vibe-coded, used by 400 to 500 people every month.
+- **Apple Vision Pro and TGV INOUI Experience**: 15 headsets and 5 apps (sales teams, maintenance centres, executive committee, immersive podcast, public App Store): TGV INOUI became the first rail company in the world to offer an immersive trip aboard its newest trains. (https://apps.apple.com/fr/app/tgv-inoui-experience/id6749140401)
+- **An agent-ready TGV INOUI design system**: A design system AI agents can drive, and partnerships with Apple, Google Cloud and Meta.
+
+### AI app developer
+
+With Connected Mate he designs and ships, alone and with AI, apps for iPhone and Mac and tools for coding with agents.
+
+- **NoteTaker AI**: Meeting summaries 100% on the iPhone with Apple Foundation Models: no data leaves the device. Featured by Apple, shown on BFM Business, 1,800+ downloads. (https://connectedmate.com/notetaker-ai.html)
+- **Dys Keyboard**: A keyboard designed for people who find writing hard, approved by Apple for kids. (https://connectedmate.com/dys-keyboard.html)
+- **Better Dictate**: Fast, private dictation for Mac, powered by Whisper, 100% offline. (https://connectedmate.com/better-dictate.html)
+- **AnnotateKit and Agentation**: Point at what should change instead of describing it, and the coding agent gets precise feedback. Agentation turns it into a way of working — “Don't vibe code, vibe create”. (https://agentation.fr)
+- **Open source**: fable-mindset, gptimage, corporate-launcher, MacPulse, TokenWatt: free tools around coding agents and local AI. (https://github.com/Connected-Mate)
+
+### AI speaker
+
+He speaks to executives and the public about AI adoption in companies, vibe coding and the role of digital natives.
+
+- **CEDEP — Executive Development, Fontainebleau**: Faculty speaker since November 2023: AI adoption workshops for L'Oréal, Renault, Safran, Nexus and Danske Bank.
+- **INSEAD, CFAO, Nexus Automotive**: Keynotes on applied AI for executive audiences.
+- **Agent at Scale**: From vibe coding to an organisation of agents, presented at S-Tron China and Comet; and the first event bringing the Claude Code and Cursor communities together, hosted by TGV.
+- **Connected Mate podcast**: Conversations about applied AI with the people who put it into production.
+
+### Career
+
+- 2026: Winner, Spark Spin Off prize — France Corporate Innovation Awards
+- Since July 2025: Head of AI & Innovation — TGV Europe · SNCF Voyageurs, Paris
+- 2023 – 2025: Innovation project manager — TGV Europe · SNCF Voyageurs — first generative-AI and Apple Vision Pro prototypes
+- Since 2023: Faculty speaker — CEDEP, Fontainebleau
+- Since 2024: Founder — Connected Mate — AI apps, podcast, open source
+- 2022 – 2023: Digital project manager — #BonjourPPC, Paris
+- 2021: Global app manager — Sneakify — iOS and web app
+- Since 2018: Volunteer firefighter, senior corporal — SDIS 77, Fontainebleau station
+
+### Frequently asked questions
+
+**Who is Alexandre Cormeraie?**
+Alexandre Cormeraie is Head of AI & Innovation for TGV Europe at SNCF Voyageurs, in Paris. An applied AI builder, he set up the SNCF group's first “AI Native” innovation department, ships AI apps with Connected Mate and speaks at CEDEP and INSEAD. He won the Spark Spin Off prize at the France Corporate Innovation Awards 2026.
+
+**What does Alexandre Cormeraie do at SNCF?**
+He puts generative AI into production in the TGV Marketing division: the Citizen Creators vibe-coding programme with Figma, the group's first MCP server connected to SNCF Open Data, TGV ticket booking by voice, the Creative Studio and Presentation Studio platforms, and TGV INOUI's Apple Vision Pro programme.
+
+**What is SNCF's Citizen Creators programme?**
+It is the SNCF group's first vibe-coding programme, run with Figma: non-technical business profiles create internal apps built entirely by AI, alongside a tech lead who reviews and ships them.
+
+**Who leads AI at TGV Europe?**
+Alexandre Cormeraie is Head of AI & Innovation for TGV Europe, in the TGV Marketing division of SNCF Voyageurs, in Paris. He set up the SNCF group's first “AI Native” innovation department there.
+
+**Is vibe coding used at SNCF?**
+Yes. Through the Citizen Creators programme, run with Figma, business teams at SNCF Voyageurs build internal apps developed by AI, guided by a tech lead who reviews and ships them. Since July 2025, TGV Europe's AI & Innovation team has built more than 20 internal apps.
+
+**What is Patrick Code?**
+Patrick Code is a self-hosted coding-agent orchestrator (Claude Code, Codex, OpenCode) designed by TGV Europe's AI & Innovation team. It is plugged into the SNCF group's AI providers and used by several group entities.
+
+**What is SNCF's first MCP server?**
+The SNCF group's first MCP (Model Context Protocol) server was built by TGV Europe's AI & Innovation team and connected to SNCF Open Data; the team then supported the SNCF Connect MCP app in ChatGPT.
+
+**Which AI apps has Alexandre Cormeraie built?**
+NoteTaker AI (meeting summaries fully on the iPhone), Dys Keyboard, Better Dictate, AnnotateKit, SpecDrive and Builder Nutch, plus open-source tools for coding agents. All are on the Apps page of cormeraie.fr.
+
+**How can I contact Alexandre Cormeraie for a talk or an AI project?**
+By email at bonjour@cormeraie.fr, on LinkedIn or through his Malt profile.
+
+---
+
+# Le vibe coding n’était qu’un début
+
+URL: https://cormeraie.fr/fr/posts/le-vibe-coding-netait-quun-debut/
+Auteur: Alexandre Cormeraie · 2026-08-12 · Métier, vibe coding, organisation, agents
+
+> Si vous parlez de vibe coding avec des product owners, c’est que vous n’êtes pas structurés, et vous êtes à risque. Le vibe coding n’est pas une technologie : c’est une méthode de travail, et ce n’est pas la bonne. Voilà à quoi ressemble, à mon avis, l’écosystème d’après : deux profils, une boucle, trois agents.
+
+## Le vibe coding, c’est pas fait pour l’entreprise
+
+Premier malentendu à lever : le vibe coding, ce n’est pas une technologie. C’est une méthode de travail — et ce n’est pas la bonne. Les modèles qui tournent derrière, eux, sont puissants, et ils s’améliorent de jour en jour, de semaine en semaine, au rythme des sorties. Ce n’est pas ça que je conteste.
+
+Le vibe coding, c’était la première étape : celle qui a servi à montrer à tout le monde que ça fonctionnait. Elle a fait son travail. Maintenant il va falloir passer à la version structurée, avec les bonnes personnes aux mains.
+
+Ce qui vient après, je l’appelle la vibe création. Des profils non techniques, sans aucune connaissance de code, vont pouvoir créer directement du software — sans voir une seule ligne de code. Ils vont s’intéresser au design. Est-ce que ça fonctionne bien ? Est-ce que c’est assez rapide ? Mais du code, ils n’en verront jamais. C’est pour ça que garder le mot « code » dans le terme est une mauvaise utilisation : il n’y a plus de code dans ce que ces gens-là font.
+
+Et c’est précisément là qu’est le risque aujourd’hui : on met des profils qui ne sont pas des vibe codeurs sur des outils de vibe codeur. Ces outils sont faits pour des gens qui ont une connaissance du code et qui vont plus vite grâce à eux. Ce sont des outils faits pour des gens qui savent les utiliser — qui savent prompter, qui savent faire tout ça. Des profils non sachants sur ces sujets-là vont mettre beaucoup plus de temps, pas moins. (Le mot « code » est déjà de trop.)
+
+Et ce n’est pas seulement une question de temps perdu. Il n’y a pas assez de tracking, pas assez de structuration, pas assez de suivi. Les applicatifs se cumulent, ils consomment du budget par les tokens, et personne ne tient le fil. C’est ça, être à risque.
+
+Ce qui veut dire, au passage, qu’il va falloir que le CFO change les budgets. De base, il y a le budget de licence et le budget de coût de développement, et il y a maintenant le budget d’hosting. Quand vous consommez de l’AWS ou de l’Azure, ce sont des coûts qui tombent sur du budget SI de run — et c’est là-dessus que l’IA va passer. Il faut donc trouver, dans les projets, ceux qui vont vous permettre de commencer à déplacer les lignes : rabaisser le budget de dev pour faire plus de budget SI, et pouvoir prendre de l’IA. (Ça mérite son propre chapitre. J’y reviendrai.)
+
+Le vibe coding n’était qu’un début. Vous choisirez peut-être la vibe création.
+
+## L’écosystème de demain : un tech lead et un PO
+
+Les bonnes personnes aux mains, ce sont les vibe créateurs. Parce que tout ça, c’est de la création : on va pouvoir créer, créer, créer des choses super. Et pour être créateur, il n’y a pas besoin d’être designer — ni d’être *que* designer, ni d’être *que* tech. Il faut être multi-sujets. C’est ce que j’appelle être digital natif.
+
+L’écosystème de demain tient donc sur deux profils. Un tech lead et un PO.
+
+Le PO est ce profil digital natif. Il a la capacité de faire du design, de comprendre le socle technique, et de faire évoluer son produit par rapport à l’UX demandé, en respectant la marque. Ce n’est pas un développeur qui s’ignore : c’est quelqu’un dont le métier est le produit, et qui a maintenant les moyens de le fabriquer lui-même.
+
+Le tech lead, lui, n’est pas un développeur non plus. C’est un profil qui a une connaissance du socle, une connaissance des bonnes choses à faire, et qui est là pour sécuriser l’entièreté et poser le cadrage. Il est en gestion sur plusieurs projets à la fois — c’est même le principe : sa mission se répète d’un projet à l’autre.
+
+Le design et le développement vont pouvoir être mis à la main d’IA. Ça, c’est le point important, et c’est ce qui rend les deux autres possibles. Encore faut-il un socle technique, avec les bons outils, les bonnes organisations et les bonnes règles.
+
+## La méthode digital natif
+
+La méthode tient en deux boucles.
+
+La première est la boucle initiale : le tech lead structure le projet et crée les agents. C’est le seul moment où quelqu’un travaille sur la base elle-même.
+
+Ensuite tourne la seconde. Le PO arrive sur une plateforme. Il ne verra même pas une ligne de code se faire — il arrive sur un code qui a déjà été fait, on ne part jamais de zéro. Il met à jour, il change son design, il modifie tout ce qui lui plaît, dans les règles qui ont été mises en place par le tech lead. C’est l’agent qui connaît ces règles pour lui. Quand il dit « c’est bon pour moi », ça tombe chez le tech lead, qui refait des validations, des sécurisations, et met en production.
+
+Et cette boucle-là tourne, tourne, tourne, autant qu’on veut.
+
+  boucle initiale
+
+  
+    {"tech lead\nstructure + agents"}
+  
+
+  
+
+  la boucle qui tourne
+
+  
+    {"le PO\nmet à jour"}
+  
+  
+  
+    {"« c’est bon\npour moi »"}
+  
+
+  
+
+  
+    {"tech lead\nvalide"}
+  
+  
+  
+    prod
+  
+
+  
+
+  
+  
+    {"gros changements :\non repart d’ici"}
+  
+
+S’il y a de gros changements drastiques, on repart à la boucle initiale : le tech lead devra peut-être faire de grosses mises à jour de ses agents et de la structuration du projet, pour accueillir ces changements-là. Mais tant qu’on reste dans le cadre, personne n’a besoin de revenir en arrière.
+
+Uniquement deux profils peuvent faire ça.
+
+## Ce designer-développeur n’existe guère
+
+Et pour répondre à ces besoins, il faut amener une solution. Pour le tech lead, il faut les meilleurs outils de code génératif, ceux qui lui permettent de structurer et de faire sa mission sur de nombreux projets en même temps.
+
+Pour le product owner, il faut l’accompagner avec des outils beaucoup moins tech. Quels sont les meilleurs réflexes d’un PO ? Faire des commentaires sur Figma, et faire des petites modifications. Donc il faut lui permettre de commenter directement sur un front, de faire des modifications de design, et que ça parte — exactement comme s’il était sur un Figma en train de faire des retours à son designer développeur.
+
+Sauf que ce designer développeur n’existe guère. Derrière, c’est une IA, structurée par le tech lead.
+
+  
+    {"annotation\ndu PO"}
+  
+
+  
+  
+  
+
+  
+    {"agent designer\n— la marque"}
+  
+  
+    {"agent tech\n— les features"}
+  
+  
+    {"agent fix\n— les normes"}
+  
+
+  
+  
+    cadrés par le tech lead
+  
+
+Un agent designer, structuré sur la marque. Un agent tech, structuré sur la création de nouvelles features en respectant le stack technique. Un agent de fix — design, bug — qui fait en sorte que le code respecte bien les normes de l’entreprise. Trois agents, qu’on peut sous-diviser selon des détails spécifiques, mais c’est ce stack-là qui est fonctionnel.
+
+Au final, c’est assez simple. On s’attendait à plus gros.
+
+## Aucun outil ne répond à ça
+
+Le plus compliqué, c’est qu’aujourd’hui aucun outil ne répond à ces sujets-là. Il n’existe pas de plateforme où un tech lead cadre une fois et où un PO travaille ensuite sans jamais croiser une ligne de code. Il faut donc que cet outil existe.
+
+C’est ce que j’essaie de faire avec [agentation.fr](https://agentation.fr). C’est une one guy company, mais c’est la vision derrière.
+
+---
+
+# Préparez-vous à la nouvelle plateforme
+
+URL: https://cormeraie.fr/fr/posts/preparez-vous-a-la-nouvelle-plateforme/
+Auteur: Alexandre Cormeraie · 2026-08-13 · Plateformes, plateformes, mcp, app intents
+
+> Arrêtez de traiter Android et iOS avec la même application. Arrêtez le code qui va partout. Ce qui vient maintenant demande encore plus de pensée par plateforme, pas moins : d’un côté MCP, qui marchera avec tout le monde, de l’autre Apple, qui a construit sa propre porte. Et une règle simple pour trier ce que vous gardez.
+
+## Arrêtez le code qui va partout
+
+Android et iOS, ce sont des plateformes. Pas deux cibles d’un même code.
+
+Il faut arrêter de traiter Android et iOS avec la même application. Il faut arrêter de faire du code qui va sur tout — du Flutter, du React. Il faut penser par plateforme et écrire dans le langage natif de l’OS. C’est ça qu’il faut arrêter.
+
+Et si vous pensez que l’IA va effacer cette différence, c’est l’inverse qui est en train de se produire.
+
+## Avec l’IA, quelle plateforme ?
+
+La vraie question à se poser, aujourd’hui, c’est celle-là : avec l’IA, quelles vont être les plateformes ? Hier, c’était Swift d’un côté et Kotlin de l’autre. Demain, laquelle sera laquelle ?
+
+De ce que je comprends de mon analyse, il va y en avoir deux, et elles n’ont rien à voir l’une avec l’autre. Il va y avoir la plateforme **MCP**. Et il va y avoir la plateforme **App Intents**, chez Apple.
+
+  MCP
+  Apple
+
+  
+
+  
+    {"un serveur MCP\nvos actions"}
+  
+
+  
+  
+  
+
+  ChatGPT
+  Claude
+  Gemini
+  
+    {"et tout ce qui viendra après"}
+  
+
+  
+    {"App Intents\nen Swift"}
+  
+
+  
+
+  Siri + Spotlight
+  
+    {"une seule porte,\ncelle d’Apple"}
+  
+
+## La plateforme MCP
+
+Celle-là est simple. Vous créez un MCP qui sait faire différentes actions. L’objectif : que toutes les actions qu’un client peut faire au niveau du numérique puissent être faites via un MCP.
+
+Et MCP n’est le camp de personne. MCP, c’est ChatGPT, c’est Claude, c’est Android, et c’est n’importe quel créateur de service qui viendra se poser au-dessus. Tout fonctionnera avec le MCP. C’est pour ça qu’il y a une plateforme MCP à travailler, et qu’elle ne remplace pas le travail natif : elle s’ajoute.
+
+Beaucoup se bloquent au transactionnel via le MCP. Vous avez tous plein de choses à faire faire par vos clients avant d’en arriver au transactionnel sur du MCP. Donc retirez-vous ça de l’esprit, et avancez sur les autres parties de vos offres. (Le transactionnel, c’est le mur où tout le monde s’arrête.)
+
+## Donnez à l’IA tout ce qui ne procure aucune expérience
+
+Voilà la règle, et c’est la seule chose à retenir si vous ne devez en retenir qu’une.
+
+Tout ce qui est non-expérientiel, tout ce qui ne procure aucune expérience : donnez-le à l’IA. Tout ce qui fait vivre une expérience : focussez-vous dessus.
+
+Ce que ça vous donne, c’est de la place. De la place sur vos sites web, de la place sur vos applications. Tout ce qui n’a aucune valeur, vous le mettez de côté. Tout ce qui peut faire vivre quelque chose, vous vous concentrez dessus. Et l’expérience digitale va devenir incroyable.
+
+  
+    {"aucune expérience\n(consulter, vérifier,\nchercher, comparer)"}
+  
+  
+  à l’IA
+
+  
+    {"une vraie expérience\n(ce pour quoi on vient\nchez vous)"}
+  
+  
+  à vous
+
+  
+    {"et vous récupérez\ntoute la place"}
+  
+
+## Apple, la vraie différence
+
+Là, ça change complètement. Et c’est une très grosse différence.
+
+Chez Apple, c’est une technologie plus complexe, et elle va vous forcer à coder en Swift. Elle passe par les App Intents, par Siri et Spotlight. Le principe : vous déclarez dans votre application « Siri, tu peux faire ceci. Siri, si on te dit cela, voilà ce que ça déclenche. »
+
+  Siri pourra ouvrir votre application directement au bon endroit. Siri pourra
+  vérifier une commande sans ouvrir votre application. Siri pourra échanger un
+  billet de train sans ouvrir votre application. Il va falloir mettre ces
+  features-là à disposition.
+
+Ce n’est pas une promesse en l’air : Apple appelle ça des *snippets* interactifs, un résultat affiché et actionnable directement dans Spotlight ou dans Siri, sans jamais passer votre app au premier plan. Et depuis que SiriKit est déprécié, les App Intents sont devenus la seule porte d’entrée.
+
+Il y a un cran au-dessus, plus ambitieux : que Siri sache que le train est en retard et vous propose d’annuler ou d’échanger le billet, sans même que vous ayez demandé. Il faut savoir que celui-là ne s’obtient pas avec les App Intents seuls — le système suggère à partir de ce que votre app lui a donné, mais c’est l’utilisateur qui doit regarder. Pour une vraie alerte non sollicitée, il faut assembler : notifications, Live Activities, automatisations. C’est faisable, ce n’est pas gratuit.
+
+Un dernier point, et c’est le plus important pour vos arbitrages. Aujourd’hui, je ne conseille pas d’en profiter pour retirer de votre application les features que Siri sait désormais couvrir. Parce que tout se joue en local — et pas de la même façon pour tout le monde. Le socle tourne sur l’appareil, un second palier plus lourd demande une puce récente et assez de mémoire, et le reste part sur les serveurs d’Apple. Les iPhone 14, les iPhone 15 de base et les Mac Intel sont exclus. Donc la capacité que l’expérience soit aussi rapide pour tous, je ne sais pas.
+
+En revanche, ce que je sais, c’est que ça répondra aux besoins des très jeunes et aux besoins des seniors. Ça, sans aucun doute.
+
+## Et chez Google
+
+Chez Google, vous aurez les App Actions Gemini Extensions. Et vous aurez aussi de vrais MCP dans Gemini, y compris dans la recherche. Ce n’est donc pas le même schéma qu’Apple : la porte ouverte reste ouverte.
+
+Puis il y aura une partie différente, spécifique, quand on sera sur le téléphone, sur l’OS. Parce que le jour où Gemini sera vraiment intégré à l’OS, il y aura une logique propre à l’OS.
+
+Et c’est là que tout se rejoint. Les gens vont se remettre à penser le développement Swift en mode plateforme. Pareil pour Kotlin. Parce que dans tous les cas, c’est l’OS qui va gagner demain.
+
+---
+
+# Vibe coding was only the beginning
+
+URL: https://cormeraie.fr/en/posts/vibe-coding-was-only-the-beginning/
+Author: Alexandre Cormeraie · 2026-08-12 · Craft, vibe coding, organisation, agents
+
+> If you're discussing vibe coding with your product owners, you're not structured — and you're at risk. Vibe coding isn't a technology: it's a way of working, and it's not the right one. Here is what I think the next ecosystem looks like: two profiles, one loop, three agents.
+
+## Vibe coding was never made for the enterprise
+
+First misunderstanding to clear up: vibe coding is not a technology. It's a way of working — and it's not the right one. The models running underneath are powerful, and they improve day by day, week by week, release after release. That's not what I'm disputing.
+
+Vibe coding was the first step: the one that proved to everyone that this works. It did its job. Now comes the structured version, with the right people at the controls.
+
+What comes next, I call vibe creation. Non-technical people, with no knowledge of code whatsoever, will create software directly — without ever seeing a line of code. They'll care about the design. Does it work well? Is it fast enough? But code, they will never see. That's why keeping the word "code" in the term is a misuse: there is no code left in what these people do.
+
+And that is exactly where the risk sits today: we put people who are not vibe coders on vibe coders' tools. Those tools are made for people who know code and move faster because of them. They are tools for people who know how to use them — who know how to prompt, who know how to do all of that. People without that knowledge will take far more time with them, not less. (The word “code” is already one word too many.)
+
+And it's not only a matter of lost time. There is not enough tracking, not enough structure, not enough follow-up. The apps pile up, they burn budget through tokens, and nobody holds the thread. That's what being at risk means.
+
+Which means, in passing, that the CFO will have to change the budgets. Traditionally there's the licence budget and the development budget, and now there's the hosting budget. When you consume AWS or Azure, those costs land on run-side IT budget — and that's where AI spend will land too. So you need to find, among your projects, the ones that let you start moving the lines: shrink the dev budget to grow the IT budget, and make room for AI. (This deserves its own chapter. I'll come back to it.)
+
+Vibe coding was only the beginning. You may well choose vibe creation.
+
+## Tomorrow's ecosystem: a tech lead and a PO
+
+The right people at the controls are the vibe creators. Because all of this is creation: we're going to create, create, create great things. And to be a creator, you don't need to be a designer — nor to be *only* a designer, nor *only* technical. You need to be multi-subject. That's what I call being a digital native.
+
+So tomorrow's ecosystem rests on two profiles. A tech lead and a PO.
+
+The PO is that digital-native profile. They can do design, understand the technical foundation, and evolve their product against the UX being asked for, while respecting the brand. Not a developer in denial: someone whose job is the product, and who now has the means to build it themselves.
+
+The tech lead isn't a developer either. It's a profile who knows the foundation, knows the right things to do, and is there to secure the whole and set the framing. They run several projects at once — that's the whole point: their mission repeats from one project to the next.
+
+Design and development can be handed to AI. That's the important point, and it's what makes the other two possible. Provided there is a technical foundation, with the right tools, the right organisation and the right rules.
+
+## The digital-native method
+
+The method fits in two loops.
+
+The first is the initial loop: the tech lead structures the project and creates the agents. It's the only moment anyone works on the base itself.
+
+Then the second one spins. The PO lands on a platform. They won't even see a line of code being written — they arrive on code that already exists; you never start from zero. They update, change their design, modify whatever they like, within the rules the tech lead has put in place. The agent knows those rules for them. When they say "good for me", it lands with the tech lead, who runs validations, security checks, and ships to production.
+
+And that loop spins, and spins, and spins, as much as you want.
+
+  initial loop
+
+  
+    {"tech lead\nstructure + agents"}
+  
+
+  
+
+  the loop that spins
+
+  
+    {"the PO\nupdates"}
+  
+  
+  
+    {"“good\nfor me”"}
+  
+
+  
+
+  
+    {"tech lead\nvalidates"}
+  
+  
+  
+    prod
+  
+
+  
+
+  
+  
+    {"big changes:\nstart back here"}
+  
+
+If there are big, drastic changes, you go back to the initial loop: the tech lead may need to do heavy updates to their agents and to the project's structure to absorb them. But as long as you stay inside the frame, nobody needs to go backwards.
+
+Only two profiles can do this.
+
+## That designer-developer barely exists
+
+And to meet these needs, you have to bring a solution. For the tech lead, you need the best generative-coding tools — the ones that let them structure and run their mission across many projects at once.
+
+For the product owner, you need far less technical tools. What are a PO's best reflexes? Leaving comments on Figma, and making small tweaks. So let them comment directly on a live front end, make design changes, and have it just go — exactly as if they were on Figma giving feedback to their designer-developer.
+
+Except that designer-developer barely exists. Behind it, there's an AI, structured by the tech lead.
+
+  
+    {"the PO's\nannotation"}
+  
+
+  
+  
+  
+
+  
+    {"designer agent\n— the brand"}
+  
+  
+    {"tech agent\n— the features"}
+  
+  
+    {"fix agent\n— the standards"}
+  
+
+  
+  
+    framed by the tech lead
+  
+
+A designer agent, structured on the brand. A tech agent, structured on building new features while respecting the stack. A fix agent — design, bugs — making sure the code holds to the company's standards. Three agents, which you can subdivide for specific details, but that is the stack that works.
+
+In the end, it's fairly simple. We were expecting something bigger.
+
+## No tool answers this
+
+The hardest part is that today, no tool answers any of this. There is no platform where a tech lead frames things once and a PO then works without ever crossing a line of code. So that tool has to exist.
+
+That's what I'm trying to build with [agentation.fr](https://agentation.fr). It's a one-guy company, but that's the vision behind it.
+
+---
+
+# Get ready for the new platform
+
+URL: https://cormeraie.fr/en/posts/get-ready-for-the-new-platform/
+Author: Alexandre Cormeraie · 2026-08-13 · Platforms, platforms, mcp, app intents
+
+> Stop treating Android and iOS as one application. Stop writing code that goes everywhere. What's coming now demands more platform thinking, not less: MCP on one side, which will work with everyone, and Apple on the other, which built its own door. Plus one simple rule for sorting what you keep.
+
+## Stop the code that goes everywhere
+
+Android and iOS are platforms. Not two targets of the same codebase.
+
+Stop treating Android and iOS as one application. Stop writing code that goes on everything — Flutter, React. Think per platform and write in the OS's native language. That's what has to stop.
+
+And if you think AI is about to erase that difference, the opposite is happening.
+
+## With AI, which platform?
+
+The real question to ask today is this one: with AI, what will the platforms be? Yesterday it was Swift on one side and Kotlin on the other. Tomorrow, which will be which?
+
+From what I understand of my analysis, there will be two, and they have nothing in common. There will be the **MCP** platform. And there will be the **App Intents** platform, at Apple.
+
+  MCP
+  Apple
+
+  
+
+  
+    {"one MCP server\nyour actions"}
+  
+
+  
+  
+  
+
+  ChatGPT
+  Claude
+  Gemini
+  
+    {"and whatever comes next"}
+  
+
+  
+    {"App Intents\nin Swift"}
+  
+
+  
+
+  Siri + Spotlight
+  
+    {"a single door,\nApple's"}
+  
+
+## The MCP platform
+
+That one is simple. You build an MCP that knows how to do various actions. The goal: every action a customer can take digitally should be doable through an MCP.
+
+And MCP is nobody's camp. MCP is ChatGPT, it's Claude, it's Android, and it's any service builder that comes to sit on top. Everything will work with the MCP. That's why there is an MCP platform to work on, and why it doesn't replace the native work: it adds to it.
+
+Many get stuck on doing transactions through MCP. You all have plenty of things to let your customers do before you ever get to transactions over MCP. So put it out of your mind, and move forward on the other parts of your offer. (Transactions are the wall where everyone stalls.)
+
+## Give AI everything that carries no experience
+
+Here is the rule, and it's the one thing to remember if you only remember one.
+
+Everything non-experiential, everything that delivers no experience: give it to AI. Everything that makes someone live an experience: focus on it.
+
+What this buys you is room. Room on your websites, room in your applications. Everything without value, you set aside. Everything that can make someone feel something, you concentrate on. And the digital experience will become incredible.
+
+  
+    {"no experience\n(checking, verifying,\nsearching, comparing)"}
+  
+  
+  to AI
+
+  
+    {"a real experience\n(what people come\nto you for)"}
+  
+  
+  to you
+
+  
+    {"and you get\nall the room back"}
+  
+
+## Apple, the real difference
+
+Here, everything changes. And it's a very big difference.
+
+At Apple, it's a more complex technology, and it will force you to code in Swift. It goes through App Intents, through Siri and Spotlight. The principle: you declare in your application "Siri, you can do this. Siri, if someone tells you that, here is what it triggers."
+
+  Siri will be able to open your application straight to the right place. Siri
+  will be able to check an order without opening your application. Siri will be
+  able to exchange a train ticket without opening your application. Those
+  features are the ones you'll have to make available.
+
+This isn't an empty promise: Apple calls them interactive *snippets* — a result displayed and actionable directly in Spotlight or in Siri, without ever bringing your app to the foreground. And since SiriKit was deprecated, App Intents have become the only way in.
+
+There's a level above, more ambitious: Siri knowing the train is late and offering to cancel or exchange the ticket, without you even asking. Know that this one doesn't come from App Intents alone — the system suggests based on what your app has given it, but the user has to be the one looking. For a true unsolicited alert, you have to assemble: notifications, Live Activities, automations. It's doable, it's not free.
+
+One last point, and it's the most important one for your trade-offs. Today, I don't advise using this as an excuse to strip from your application the features Siri can now cover. Because everything runs locally — and not the same way for everyone. The base tier runs on the device, a heavier second tier needs a recent chip and enough memory, and the rest goes to Apple's servers. iPhone 14s, base iPhone 15s and Intel Macs are excluded. So whether the experience will be as fast for everyone, I don't know.
+
+What I do know, though, is that it will answer the needs of the very young and the needs of seniors. That, without any doubt.
+
+## And at Google
+
+At Google, you'll have App Actions Gemini Extensions. And you'll also have real MCPs inside Gemini, including in search. So it's not Apple's model: the open door stays open.
+
+Then there will be a different, specific part once we're on the phone, on the OS. Because the day Gemini is truly integrated into the OS, there will be an OS-specific logic.
+
+And that's where everything meets. People will go back to thinking Swift development platform-first. Same for Kotlin. Because either way, it's the OS that wins tomorrow.

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[Alexandre Cormeraie — Cormeraie]]></title>
+    <link>https://cormeraie.fr/en/</link>
+    <description><![CDATA[One goal: build the best possible experience — with AI. My apps, my essays, what I admire.]]></description>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://cormeraie.fr/en/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[Get ready for the new platform]]></title>
+      <description><![CDATA[Android and iOS are platforms, not two targets of the same codebase. With AI, two new platforms are arriving — MCP on one side, App Intents on the other — and they are not worked the same way.]]></description>
+      <link>https://cormeraie.fr/en/posts/get-ready-for-the-new-platform/</link>
+      <guid isPermaLink="true">https://cormeraie.fr/en/posts/get-ready-for-the-new-platform</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title><![CDATA[Vibe coding was only the beginning]]></title>
+      <description><![CDATA[It was never made for the enterprise. What comes next is non-technical people creating software without seeing a single line of code — and that takes an organisation nobody is tooling for yet.]]></description>
+      <link>https://cormeraie.fr/en/posts/vibe-coding-was-only-the-beginning/</link>
+      <guid isPermaLink="true">https://cormeraie.fr/en/posts/vibe-coding-was-only-the-beginning</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Craft</category>
+    </item>
+  </channel>
+</rss>
