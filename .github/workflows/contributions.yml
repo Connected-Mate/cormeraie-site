@@ -1,0 +1,51 @@
+# Written by scripts/github-contributions.mjs in the source repository.
+# Do not edit by hand: the next deploy overwrites it.
+#
+# The site claims a number of GitHub contributions as evidence, so the number
+# has to stay true between deploys.
+
+name: Refresh contribution count
+
+on:
+  schedule:
+    # 05:17 UTC — off the hour, so it does not queue behind the whole world.
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contributions
+  cancel-in-progress: false
+
+# The account's own token, or nothing happens: the automatic GITHUB_TOKEN
+# does not see private contributions and would lower the number.
+env:
+  HAS_TOKEN: ${{ secrets.CONTRIB_TOKEN != '' }}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read the contribution calendar
+        if: ${{ env.HAS_TOKEN == 'true' }}
+        env:
+          TOKEN: ${{ secrets.CONTRIB_TOKEN }}
+          LOGIN: Connected-Mate
+        run: node .github/scripts/refresh-contributions.mjs
+
+      - name: Commit only if the number moved
+        if: ${{ env.HAS_TOKEN == 'true' }}
+        run: |
+          if [ -n "$(git status --porcelain contributions.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add contributions.json
+            git commit -m "chore: refresh the contribution count"
+            git push
+          else
+            echo "Unchanged."
+          fi
